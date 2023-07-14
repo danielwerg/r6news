@@ -1,0 +1,45 @@
+{
+  "name": "r6news",
+  "version": "0.0.0",
+  "author": "Daniel Werg",
+  "description": "Rainbow Six Siege news",
+  "license": "MIT",
+  "repository": "danielwerg/r6news",
+  "scripts": {
+    "news:update": "ts-node scripts/updateNews.ts",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
+  },
+  "prettier": "@danielwerg/prettier-config",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@danielwerg/eslint-config": "^0.1.0",
+    "@danielwerg/prettier-config": "^1.0.0",
+    "@danielwerg/tsconfig": "^0.1.0",
+    "@types/node": "^20.4.2",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.44.0",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "2.8.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "ubisoft",
+    "rainbow",
+    "six",
+    "siege",
+    "rainbowsixsiege",
+    "rainbow6",
+    "rainbow6siege",
+    "r6s",
+    "siege",
+    "news"
+  ]
+}
