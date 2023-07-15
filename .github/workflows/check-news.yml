@@ -1,4 +1,4 @@
-name: Update news
+name: Check news
 
 on:
   schedule:
