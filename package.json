@@ -12,20 +12,20 @@
   },
   "prettier": "@danielwerg/prettier-config",
   "dependencies": {
-    "axios": "^1.4.0"
+    "axios": "^1.5.1"
   },
   "devDependencies": {
-    "@danielwerg/eslint-config": "^0.1.0",
+    "@danielwerg/eslint-config": "^1.0.0",
     "@danielwerg/prettier-config": "^1.0.0",
     "@danielwerg/tsconfig": "^0.1.0",
-    "@types/node": "^20.4.2",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
-    "eslint": "^8.44.0",
-    "eslint-plugin-import": "^2.27.5",
+    "@types/node": "^20.8.3",
+    "@typescript-eslint/eslint-plugin": "^6.7.4",
+    "@typescript-eslint/parser": "^6.7.4",
+    "eslint": "^8.51.0",
+    "eslint-plugin-import": "^2.28.1",
     "prettier": "2.8.8",
     "ts-node": "^10.9.1",
-    "typescript": "^5.1.6"
+    "typescript": "^5.2.2"
   },
   "files": [
     "dist"
