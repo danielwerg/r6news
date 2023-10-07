@@ -19,7 +19,7 @@ export const processNews = ({ news, locale }: ProcessNewsOptions) =>
     id: item.id,
     title: item.title.trim(),
     abstract: item.abstract?.trim(),
-    thumbnail: item.thumbnail.url,
+    thumbnail: item.thumbnail.url?.length ? item.thumbnail.url : null,
     content: item.content,
     categories: item.categories,
     readTime: item.readTime,

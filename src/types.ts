@@ -14,7 +14,9 @@ export type PlacementFilter =
 
 export type ItemType = 'news' | 'videos';
 export interface URLAndDescription {
+  /** Could be empty string */
   url: string | null;
+  /** Could be empty string */
   description: string | null;
 }
 export interface ButtonOrNodeBase {
