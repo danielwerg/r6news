@@ -27,10 +27,15 @@ jobs:
       - name: Update news
         run: yarn news:update
 
+      - name: Save last title to output
+        run: |
+          echo "LAST_TITLE=$(cat news.json | grep -oP '(?<="title":").*?[^\\](?=",)' | head -1)" >> $GITHUB_OUTPUT
+        id: title
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          message: 'chore: 🤖 Update news'
+          message: 'chore: 🤖 Update news — ${{ steps.title.outputs.LAST_TITLE }}'
           author_name: GitHub Actions
           author_email: actions@github.com
         env:
