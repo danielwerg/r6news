@@ -4,7 +4,7 @@
 
 ## Example
 
-`GET`: https://raw.githubusercontent.com/danielwerg/r6news/master/news.json
+`GET`: https://raw.githubusercontent.com/danielwerg/r6news/master/news.min.json
 
 <details><summary>Response</summary>
 

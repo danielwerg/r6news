@@ -29,7 +29,7 @@ jobs:
 
       - name: Save last title to output
         run: |
-          echo "LAST_TITLE=$(cat news.json | grep -oP '(?<="title":").*?[^\\](?=",)' | head -1)" >> $GITHUB_OUTPUT
+          echo "LAST_TITLE=$(cat news.min.json | grep -oP '(?<="title":").*?[^\\](?=",)' | head -1)" >> $GITHUB_OUTPUT
         id: title
 
       - name: Commit changes
