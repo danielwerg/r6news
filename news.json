@@ -1,5 +1,18 @@
 [
   {
+    "id": "74jMoilp5AghJCQpjcEoE2",
+    "title": "Y8S4.1 Patch Notes",
+    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y8S4.1!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/37gOBvZUlC6XMwThNj0rA9/6d2196f0d45e459b2e74c8caa785e72b/Y8S4.1_Article.jpg",
+    "content": "You can find here the updates and fixes for the Y8S4.1 patch.\n\n## Y8S4.1 Patch Size\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect: 1.36 GB\n- Steam:  0.6 GB\n- Xbox One: 0.9 GB\n- Xbox Series X: 1.2 GB\n- PlayStation 4: 1.96 GB\n- PlayStation 5: 1.24 GB\n\n# BUG FIXES\n\n## GAMEPLAY\n\nFIXED - Lair is unavailable in Free For All mode.\n\nFIXED - AI bots attempt to breach reinforced walls with C4 explosives or Impact Grenades.\n\nFIXED - Players are unable to vault some railings across various maps.\n\n## LEVEL DESIGN\n\nFIXED - Drones can get stuck in EXT Street of the Attack Tutorial map.\n\nFIXED - Cork board prevents line of sight by clipping through wall at 1F Staff Room of Bank map.\n\nFIXED - Unintended line of sight can be reached with Azami's Kiba Barrier on a small wheel at 1F Cargo of the Nighthaven map.\n\nFIXED - Placeholder asset is visible in the north-west side of the Lair map while using caster mode.\n\nFIXED - Iana's Gemini Replicator can go out of bounds when deployed near the boxes at EXT Lift of the Lair map.\n\nFIXED - Frag grenade damage passes through a wall at 2F Library of the Chalet map.\n\nFIXED - Explosive damage passes through elevator doors at B Vault Lobby of the Bank map.\n\nFIXED - Players can get out of bounds using Azami's Kiba Barrier to vault onto a railing at EXT Shooting Range of the Lair map.\n\nFIXED - Players get stuck in falling animation on top of barrels in Tutorial 1 of the Attack Tutorial map.\n\nFIXED - Players get stuck in prone between a railing and a stone wall at EXT Lift Exit of the Lair map.\n\nFIXED - Players have an unintended line of sight between a desk and boxes located at 1F Briefing of the Lair map.\n\nFIXED - Various defuser planting and pickup issues.\n\nFIXED - Player can't retrieve throwable devices in specific spots on various maps.\n\n## AUDIO\n\nFIXED - Missing voice line during onboarding HQ in Landmark Drill, Target Drill, or Shooting Range drill. \n\n## OPERATORS\n\nFIXED - Missing VFX for Frost's Welcome Mat and Ela's Grzmot Mine when affected by Tubarao's Zoto Canister.\n\nFIXED - Missing VFX for Blitz's Flash Shield when affected by Tubarao's Zoto Canister.\n\nFIXED - Missing hit marker when destroying Melusi's Banshee Sonic Defense.\n\nFIXED - Misplaced freeze VFX when shooting while affected by Tubarao's Zoto Canister.\n\nFIXED - Score doesn't update when Tubarao's Zoto Canister freezes Opponent devices.\n\nFIXED - Warden's Glance Smart Glasses don't protect against Ying's Candela.\n\nFIXED - Various animation issues.\n\n## USER EXPERIENCE\n\nFIXED - Battle Pass content disappears when swapping between multiple menus quickly.\n\nFIXED - Amaru's Broad Blade weapon skin clips through walls.\n\nFIXED - Community Challenge UI disappears after waiting several minutes in the Challenges menu.\n\nFIXED - Option to invite players is greyed out when creating a squad.\n\nFIXED - Lair playlist uses wrong image.\n\nFIXED - Various spectator mode issues.\n\nFollow us and share your feedback on [X](http://twitter.com/rainbow6game), [Reddit](https://www.reddit.com/r/Rainbow6/), and [Facebook.](https://www.facebook.com/Rainbow6/)",
+    "categories": [
+      "rainbow-six-siege"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/74jMoilp5AghJCQpjcEoE2/y8s41-patch-notes",
+    "date": "2023-12-12T10:30:00.000Z"
+  },
+  {
     "id": "BY4Wjhg2KY6kJvFzb1dvd",
     "title": "Y8S4 Patch Notes Addendum",
     "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y8S4!",
@@ -401,18 +414,5 @@
     "readTime": 8,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/42o6BhsFgmPla9wmiJ5GnJ/y8s2-designers-notes",
     "date": "2023-05-15T13:50:00.000Z"
-  },
-  {
-    "id": "4m8fjcmROM4IJSNi58ZEM7",
-    "title": "“Fear is a teacher. There’s always a lesson to be learned.” - Fenrir",
-    "abstract": "Do you feel your hair standing on end? FENRIR, our newest Defender, brings his valuable expertise in Operation DREAD FACTOR.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/sOA8oYLtJ4mU6T1Nr8bWe/b71227a01801fcffd643f4cb420ba4ae/R6S_Live_Y8S2_DreadFactor_OperatorKeyart_1920x1080_Textless.jpg",
-    "content": "Do you feel your hair standing on end? FENRIR, our newest Defender, brings his valuable expertise in Operation DREAD FACTOR. Hailing from Uppsala in Sweden, Fenrir joins the REDHAMMER squad. Being first through the door teaches a valuable lesson in fight or flight.\n\nFENRIR brings the F-NATT DREAD MINE as part of his arsenal. Releasing a fear-inducing gas, FENRIR brings a good area of denial ability when focused on gameplay planning. With 2 HEALTH, 2 SPEED, and the MP7 and SASG-12 as primary weapon choices, FENRIR leaves his opponents feeling like deer caught in headlights. With BARBED WIRE and BULLETPROOF CAMERAS as gadget options, you'll never be sure if you're being watched.\n\nThe F-NATT DREAD MINE is a throwable device that sticks to walls, so it can be hidden in places where fear can fester. FENRIR comes equipped with 5 mines and can activate 3 at a time anywhere on the map, so you'll never know when your resolve will leave you. When a mine goes off it limits the target's field of vision, giving FENRIR and his teammates an advantage over their fear-stricken opponents. Attack Operators can rely on ZERO'S ARGUS CAMERA LAUNCHER to find the mines safely, or BRAVA'S KLUDGE DRONE to turn the fear back on the enemy.\n\nStudying Neurochemistry, FENRIR was discharged from the Swedish Armed forces when he proposed a project to create formulas that alter a soldiers' emotional state, so DEIMOS approached him to fund his research. When he learned his work was being turned into a dangerous weapon, FENRIR escaped and sought out Rainbow.\n\nFear is his greatest tool, and his first lesson will be terrifying.\n\nCheck him out on the Test Servers starting May 15th. Operation DREAD FACTOR will launch on all platforms on May 30<sup>th</sup>.",
-    "categories": [
-      "rainbow-six-siege"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/4m8fjcmROM4IJSNi58ZEM7/fear-is-a-teacher-theres-always-a-lesson-to-be-learned-fenrir",
-    "date": "2023-05-15T08:00:00.000Z"
   }
 ]
