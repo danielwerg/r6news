@@ -1,5 +1,18 @@
 [
   {
+    "id": "6uMSX3GcrTsISxlA5CMmY",
+    "title": "Holiday Pack 2023",
+    "abstract": "Happy Holidays from the Rainbow Six Siege team! We've got a surprise for you!  The free 2023 Holiday Pack is available from December 22nd 2023 through January 3rd 2024",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4ISMUiNuNKElKj7oSHEFlk/c410c6884bdf7b7fb7bc36151fc6f9b2/R6S_2023_HP_WEB_ARTICLE.jpg",
+    "content": "Happy Holidays from the Rainbow Six Siege team! We've got a surprise for you!\n\nThe free 2023 Holiday Pack is available from December 22nd 2023 through January 3rd 2024.\n\nThe Holiday Pack contains 1 random unowned Operator or a Bravo Pack if all Operators are already owned.\n\nTo get your pack go the shop and claim the \"free gift\" item. The in-game news bulletin should also direct you there.\n\nWe hope you enjoy and have a great time heading into the new year.\n\n<hr>\n\nFollow us and share your feedback on [Twitter](https://twitter.com/Rainbow6Game) and [Reddit](https://www.reddit.com/r/Rainbow6/).",
+    "categories": [
+      "rainbow-six-siege"
+    ],
+    "readTime": 1,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6uMSX3GcrTsISxlA5CMmY/holiday-pack-2023",
+    "date": "2023-12-22T11:00:00.000Z"
+  },
+  {
     "id": "22JLMFeayzuamhb7YKbAjm",
     "title": "Reputation System: Activation & More",
     "abstract": "See what’s new with the activation of the Reputation System.",
@@ -401,19 +414,5 @@
     "readTime": 9,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6a5uYfFF2CsJh1fjXSWrzK/y8s2-operation-dread-factor-patch-notes-addendum",
     "date": "2023-05-30T14:00:00.000Z"
-  },
-  {
-    "id": "2sjhqfhPtIXahpoC0H6F5y",
-    "title": "R6Fix Rewards Update",
-    "abstract": "For Year 8, we are giving even more rewards to players using R6Fix!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5bzHBFcYhGZwUNfFLz4aht/1245c2ffe43bcadfd90551fb001cb508/Y7S4.R6Fix.Update.960x540.png",
-    "content": "We first want to thank everyone who used R6Fix last year!\n\nIn Year 8, you can now earn even more rewards and you know what is at stake: Alpha Packs!\n\n![[R6S] News - R6Fix Incentives Update - R6 REVEAL Y8S2 R6Fix REWARD](//staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7hSIIv9zOHnia0jMks3Tuw/22c7872cc438451b668e13807543426d/R6_REVEAL_Y8S2_R6FixREWARD_20230427.jpg)\n\nWhat if we told you there are even __more ways to earn Alpha Packs with R6Fix__?\n\nIn addition to the existing criteria, here are the new ways you can receive additional codes for 3 Alpha Packs (1 rare, 1 epic, 1 legendary):\n\n-   You submit __2__ issues that __reach the__ __Under Investigation status__. You will receive the usual codes depending on the highest severity issue and an additional code for the second issue. (Strength in numbers!)\n\n-   Your issue is a MUST FIX and __reaches the__ __Promoted status__, GG, you will earn a code!\n\n-   You will receive one extra code for any OUTSTANDING contribution. For example, you posted video evidence (not videos of your cat*) __that helped our team fix the issue__.\n\n-   Last but not least, you found an exploit. Don't exploit it, __report it__ instead! If valid (we repeat, if __VALID__), you will earn an extra code.\n\nFor each of these 4 criteria, you can earn 1 code maximum per season.\n\nSo, are you ready, Operator? Head over to [R6Fix](https://r6fix.ubi.com/), grab your shield and help us defend Siege from bugs.\n\nDon't forget to take a look at our [FAQ](https://rainbow6.com/r6fix_faq), if you need a mission brief, you can also check out our previous article available [here](https://www.ubisoft.com/en-ca/game/rainbow-six/siege/news-updates/33c5jfNfDIvcNm5q4NjkWv/r6fix-rewards) for more information about the R6Fix program.\n\nThanks again for your contribution and see you soon!\n\n\\**Seriously, if you post cat videos, you may be banned from the platform indefinitely, so as much as we love cat videos - please don't.*",
-    "categories": [
-      "rainbow-six-siege",
-      "community"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/2sjhqfhPtIXahpoC0H6F5y/r6fix-rewards-update",
-    "date": "2023-05-15T16:00:00.000Z"
   }
 ]
