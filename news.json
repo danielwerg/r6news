@@ -1,5 +1,18 @@
 [
   {
+    "id": "5plhBU3RgPKheHPernoEWK",
+    "title": "Y8S4.3 Patch Notes",
+    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y8S4.3!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2oloPdm7LmljbCWmTUSnN6/aa61c483fd7e69526f39e3ec2ce476e8/Y8S4.3_Article.jpg",
+    "content": "You can find here the updates and fixes for the Y8S4.3 patch.\n\n## Y8S4.3 Patch Size\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect: 0.4 GB\n- Steam: 0.3 GB\n- Xbox One: 0.6 GB\n- Xbox Series X: 0.7 GB\n- PlayStation 4: 0.5 GB\n- PlayStation 5: 0.7 GB\n\n# TWEAKS AND IMPROVEMENTS\n\n## GAME HEALTH\n\n### GAME STABILITY\n\nOverall stability of the game has been improved.\n\n### FPS IMPROVEMENTS\n\nWe've addressed FPS drop issue that occurs when Tubarao's Zoto Canister is used. We appreciate the input from the community that helped make this fix possible.\n\n### ANTI-CHEAT\n\nAnti-Cheat has been changed to detect a larger quantity of cheating overall. For more information, check out the devblog.\n\n[https://rainbowsix.com/AntiCheat_Feb24](https://rainbowsix.com/AntiCheat_Feb24)\n\n# BUG FIXES\n\n## LEVEL DESIGN\n\nFIXED - Rooms are too dark on the Consulate map.\n\nFIXED - Drones can't break windows by jumping through them.\n\nFollow us and share your feedback on [X](http://twitter.com/rainbow6game), [Reddit](https://www.reddit.com/r/Rainbow6/), and [Facebook.](https://www.facebook.com/Rainbow6/)",
+    "categories": [
+      "rainbow-six-siege"
+    ],
+    "readTime": 1,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5plhBU3RgPKheHPernoEWK/y8s43-patch-notes",
+    "date": "2024-02-15T10:30:00.000Z"
+  },
+  {
     "id": "5YK5Mlv2HjWgV9S2uUXYEO",
     "title": "Y8S4.2 Patch Notes",
     "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y8S4.2!",
@@ -401,16 +414,5 @@
     "readTime": 3,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/686r3S9cT83J0K8SUdE0PX/y8s22-patch-notes",
     "date": "2023-06-26T23:00:00.000Z"
-  },
-  {
-    "id": "5wcmbNXPSZwYWBYRrrFz48",
-    "title": "Y8S2.1 Patch Notes",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y8S2.1.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/013g3MqAH5sdAGRoqlI8SP/e5ed0a221136b1072583e2923ca5b30f/Y8S2.1_PatchNotes.jpg",
-    "content": "## Y8S2.1 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect: 0.92 GB\n- Steam: 0.69 GB\n- Xbox One: 1.00 GB\n- Xbox Series X: 1.23 GB\n- PS4: 1.13 GB\n- PS5: 1.10 GB\n\n## FEATURE\n\n__Custom game team mixer__\n\n- New button added to allow hosts in custom online games to randomize teams.\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Grim is missing from the Operators roster in the Golden Gun game mode.             \n\nFIXED - Dummy Health option doesn't affect newly spawned dummies. \n\nFIXED - Terrain destruction is not reproduced when players join a match in progress.       \n\nFIXED - Players get trapped when spawning at 1F Vending Stair of the Nighthaven map.  \n\nFIXED - FPS drops when Solis' SPEC-IO Electro Sensor scans Sens' R.O.U. Projector System.            \n\nFIXED - Opponents can activate devices that stick to walls from behind barricades.            \n\nFIXED - Barricades are destroyed after shooting 20 bullets into a specific spot to avoid the \"vault\" prompt.\n\nFIXED - Loadout is randomized when eliminated for the first time in an arcade match in progress and spawning as a random Operator.\n\nFIXED - Various Team Deathmatch issues.\n\n### LEVEL DESIGN\n\nFIXED - Defenders are detected outside when navigating in B Old Office of the Villa map.\n\nFIXED - Unfair line of sight can be gained using Azami's Kiba Barrier to vault on to a table at 2F Yellow Stairs of the Consulate map.\n\nFIXED - Record player can't be broken at 1F Lounge of the Emerald Plains map.\n\nFIXED - Unintended line of sight towards 1F Visa Office through the drone vent on the eastern wall at EXT Parking of the Consulate map.\n\nFIXED - Exploitable line of sight from a table at 1F West Corridor of the Consulate map.\n\nFIXED - Exploitable line of sight on stacked supply crates at 1F Piano Room of the Consulate map.\n\nFIXED - Players get stuck in the generator after rappelling at EXT Garage Way of the Consulate map.\n\nFIXED - Players can spawn kill from 2F catering on players exiting Police Line spawn of the Consulate map.\n\nFIXED - Collison, asset, and texture issues on various maps.\n\n### AUDIO\n\nFIXED - SFX missing when hitting Azami's Kiba Barrier with a shield.\n\nFIXED - Multiples voice lines plays when Fenrir's F-NATT Dread Mine is thrown.\n\nFIXED - Voice chat audio comes from Windows default devices instead of selected options in-game.\n\nFIXED - Incorrect SFX play when Brava's Kludge Drone hacks Fenrir's F-NATT Dread Mine.\n\nFIXED - Various audio issues.\n\n### OPERATORS\n\nFIXED - Ace's S.E.L.M.A. Aqua Breacher can't break wooden floors with carpet over it.\n\nFIXED - Bailiff 410 reloads faster when activating Fenrir's F-NATT Dread Mine.\n\nFIXED - FPS drop occurs when Clash's CCE Electro-Shield ability is spammed.\n\nFIXED - Fenrir's F-NATT Dread Mine location appears as placeholder when placed in EXT Coast Guard Roof of the Kanal map.\n\n### USER EXPERIENCE\n\nFIXED - Multiple strings of text are missing from the Battle Pass progression tab.\n\nFIXED - stick input when rotating camera in match replay doesn't reflect the input by user.\n\nFIXED - Players get an error after accepting an invite from a player that was previously in their Squad.\n\nFIXED - Various Shop and Customization issues.\n\nFIXED - Various UI issues.\n\n<br>\n\n---\n\n<br>\n\nFollow us and share your feedback on [Twitter](https://twitter.com/Rainbow6Game) or [Reddit](https://www.reddit.com/r/Rainbow6/).",
-    "categories": null,
-    "readTime": 4,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wcmbNXPSZwYWBYRrrFz48/y8s21-patch-notes",
-    "date": "2023-06-13T10:50:00.000Z"
   }
 ]
