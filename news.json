@@ -1,5 +1,19 @@
 [
   {
+    "id": "44C6itnVD8jyYL0gpNeTFg",
+    "title": "Y9S1.1 Patch Notes",
+    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S1.1!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2X9wsZtxKHRYsZx2RjOpin/a138911ef8be5074382f1a316be03e3d/Y9S1.1_PatchNotes.960x540.jpg",
+    "content": "See the fixes here that are coming in Y9S1.1.\n\n## Y9S1.1 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect: 2.2 GB\n- Steam: 1.9 GB\n- Xbox One: 2.27 GB\n- Xbox Series X: 2.51 GB\n- PlayStation 4: 2.73 GB\n- PlayStation 5: 2.49 GB\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Feet aren't covered by Ballistic Shield when crouched.\n\nFIXED - AI Bots get stuck on furniture when moving to the defuser if planted in the south east corner of 1F Bar on the Chalet map.\n\nFIXED - Eliminations counter doesn't update if more than 3 targets are eliminated at the same time in Map Run Target Mode.\n\nFIXED - Wrong room marked as complete for the 4th step of Map Run on the Coastline map.          \n\nFIXED - Wrong magnification for the .44 Mag Semi-Auto.\n\nFIXED - Players can double vault using a Deployable Shield and Azami's Kiba Barrier to reach areas providing unintended lines of sight.\n\n### LEVEL DESIGN     \n\nFIXED - Defenders detected outside between 2F Yellow Corridor and 2F Cafe Corridor on the Theme Park map.\n\nFIXED - Players can vault onto a cabinet located in 2F Tea Room on the Skyscraper map.\n\nFIXED - Defenders detected outside in 1F Main Stairs on the Border map.\n\nFIXED - Walls clip through the rooftop in EXT Bedroom Roof on the Villa map.\n\nFIXED - Players can navigate onto a metal box located at EXT Sailboats on the Kanal map.   \n\nFIXED - Defenders detected outside between 1F Blue Room and 1F Joint Corridor on the Theme Park map.\n\nFIXED - Players are able to navigate onto the top of stacked barrels located at 1F Barrel Room on the Theme Park map.\n\nFIXED - Defuser can't be retrieved after dropping it while exiting or entering rappel stance next to a railing in EXT Terrace Balcony on the Outback map.\n\n### OPERATORS\n\nFIXED - Buck's Skeleton Key doesn't work as intended when pressing the fire key during the transition animation.\n\nFIXED - Deimos' DeathMARK gauge does not show the cooldown refill in caster mode.\n\nFIXED - Deimos' DeathMARK won't activate right after switching targeted operators.\n\nFIXED - Bandit's Shock Wire persists when affected by EMP grenades.\n\n### USER EXPERIENCE\n\nFIXED - Reputation values are inaccurate when a player has negative tiles with actions displayed in the Reputation tab.\n\nFIXED - Rendering issue upon viewing the main and subcategories of the Locker.\n\nFIXED - Navigation keys have no functionality inside the intro page of the Battle Pass.\n\nFIXED - Unintended guard break animation occurs after stepping on a fire source when using a Ballistic Shield.\n\nFIXED - FPS drops when players quickly pass over Operators in the Operators tab.\n\nFIXED - Various UI issues.",
+    "categories": [
+      "rainbow-six-siege",
+      "patch-notes"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/44C6itnVD8jyYL0gpNeTFg/y9s11-patch-notes",
+    "date": "2024-03-26T09:30:00.000Z"
+  },
+  {
     "id": "6P50LnjwQr8ryAYoAPXZjk",
     "title": "Y9S1 Patch Notes Addendum",
     "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S1!",
@@ -396,20 +410,5 @@
     "readTime": 3,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/hmLtXQucpD05WszOadhAO/y8s2-midseason-roadmap-update",
     "date": "2023-08-03T13:50:00.000Z"
-  },
-  {
-    "id": "1MwSYw0xxnbncvKzgdhJZS",
-    "title": "Reputation System Beta: System Balancing",
-    "abstract": "Details on our system balancing and how it affects players.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3Aew8jqPMbQu36rVqdl7U2/c4d7366860a671ee189c24225252c93a/Reputation.System.Balancing.960x540.png",
-    "content": "# SYSTEMWIDE REBALANCING\n\nToday, the Reputation System Formula will be updated to pave the way for new changes and initiatives that will be coming in future seasons. Multiple changes will be coming into effect, leading to exciting new improvements and more accurate Reputation Standings for players. \n\n### WHAT WE'RE CHANGING\n\nWe have rebalanced the way we account for various actions in the system, ultimately affecting how easy it is to attain the highest Standings of Esteemed and Exemplary. \n\nWe have also made changes to certain measures that affect when penalties will be triggered. With the new updates, the point at which a player triggers a penalty will be more consistent.\n\n### HOW WILL THIS AFFECT PLAYERS\n\n- After this update, players' Reputation Standings may have changed. Playing fairly and respecting others is key to helping raise a player's Standing.\n\n- Repeat offenders may rapidly trigger a penalty. Avoiding further disruptive actions will be vital to maintaining a good Standing.\n\n## TO SUMMARIZE\n\nWith this major rebalancing, many players will be seeing a change in their Reputation Standing, with some disruptive players also accelerating the triggering of penalties. This is a deliberate result of our latest Reputation System update. We're working to ensure that this system works well for all players, and we know that with the efforts of our community, together, we can build a great experience for everyone . \n\nThe Reputation System remains in its Beta phase and will keep on evolving as we move forward. In the future, we will be bringing greater visibility and control to players and additional ways for you to interact with one another in prosocial ways. \n\nWe remain committed to ensuring a safe environment for all players.",
-    "categories": [
-      "rainbow-six-siege",
-      "toxicity",
-      "dev-blogs"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/1MwSYw0xxnbncvKzgdhJZS/reputation-system-beta-system-balancing",
-    "date": "2023-07-26T21:00:00.000Z"
   }
 ]
