@@ -1,5 +1,19 @@
 [
   {
+    "id": "6WJt2qa45vHi0ST01V6vgJ",
+    "title": "Y9S2.1 Patch Notes",
+    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S2.1!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7rMXvWW5nDUvZ7x3tZPkO/a7f3fed908df1b8b9abeaacee65096d3/PATCHNOTES_Y9S2_960x540.jpg",
+    "content": "# Y9S2.1 PATCH SIZE\n\nFind the download sizes for each platform below.\n-   Ubisoft Connect: 1.05 GB\n-   Steam: 1.6 GB\n-   Xbox One: 0.8 GB\n-   Xbox Series X: 1 GB\n-   PlayStation 4: 1.29GB\n-   PlayStation 5: 887 MB\n\n# BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Aiming down sight is cancelled when opening the scoreboard.\n\nFIXED - Reflex C reticle isn't centered on the Bearing 9.\n\nFIXED - Player's movement speed remains reduced if they reload while aiming down sight.\n\nFIXED - Players can eliminate more targets than what's needed in Target Drill on the Kafe Dostoyevsky map.\n\nFIXED - Claymores reappear after being destroyed by Electrified Barbed Wire.\n\n### LEVEL DESIGN\n\nFIXED - Drones can be hidden in the floor located at 2F Elevator Shaft on the Bank map.\n\nFIXED - Players are able to navigate on top of invisible collision located at EXT Docks Bridge on the Kanal map. \n\nFIXED - Flickering textures are present near ledges and on certain objects after destroying barricades when launching the Vulkan executable.\n\nFIXED - Grey carpets are difficult to destroy in 3F Cigar Balcony and 3F Cigar Lounge on the Kafe Dostoyevsky map.\n\nFIXED - Grey Carpets are difficult to destroy in 2F Pink Room on the House map.\n\n### OPERATORS\n\nFIXED - Players can use Ram's BU-GI Auto Breacher to reach unintended areas.\n\nFIXED - Smoke Screen becomes bulletproof when using Sens' R.O.U. Projector System.\n\nFIXED - Flores' RCE-Ratero Charge loses connection if any elimination is displayed while using the drone.\n\n### USER EXPERIENCE\n\nFIXED - Operator Voucher is missing in the new Battle Pass tab.\n\nFIXED - SEC and SINGLESHOT labels are overlapping other text in the Detailed Weapon Stats.\n\nFIXED - Tutorial rewards alert appears twice after completing the first tutorial.\n\nFIXED - Content disappears when backing out of rewards under the Battle Pass tab.\n\nFIXED - Placeholder text present in the headlines of the live version of the Patch Notes page.\n\nFIXED  - Default attachment skins can be added to favorites through the Operator album.\n\nFIXED - Scrolling with mouse wheel is unavailable in multiple customization menus.\n\nFIXED - Discount does not apply in Pack Manager.\n\nFIXED - Boot Camp universal attachment skin is unavailable for some weapons.\n\nFIXED - \"A Voucher is waiting\" modal is displayed near the end of the season when all operators have been unlocked.\n\nFIXED - Shield skins are missing from bundle content under the Shop tab.\n\nFIXED - The Universal attachment skin \"Lifeblood Flower\" isn't available for Glaz's OTs-03.\n\nFIXED - Various UI issues.\n\n### AUDIO\n\nFIXED - SFX for firing weapons persists after the end of the round.\n\nFIXED - Weapon firing SFX infinitely loops when operator is eliminated while downed.\n\n* * * * *\n\nFollow us and share your feedback on [Twitter](https://twitter.com/Rainbow6Game) and [Reddit](https://www.reddit.com/r/Rainbow6/).",
+    "categories": [
+      "rainbow-six-siege",
+      "patch-notes"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6WJt2qa45vHi0ST01V6vgJ/y9s21-patch-notes",
+    "date": "2024-06-20T09:15:00.000Z"
+  },
+  {
     "id": "gm4uKyZfhp7hzSrRe5THP",
     "title": "Y9S2 PATCH NOTES ADDENDUM",
     "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S2!",
@@ -405,18 +419,5 @@
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5Jd2jnLL5jOGzD7xMpJNKX/rainbow-six-siege-x-halo-crossover-brings-master-chief-set-for-sledge",
     "date": "2023-09-27T08:00:00.000Z"
-  },
-  {
-    "id": "5MhtA9MfeyId8QLbETK3wx",
-    "title": "Y8S3.2 Patch Notes",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y8S3.2.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5PPCskhe0zulw4qe9UgXpI/2cb9a35335740116818c497b745658a4/Y8S3.2_PatchNotes_Article.jpg",
-    "content": "See the upcoming changes to Rainbow Six Siege with the release of Y8S3.2.\n\n## Y8S3.2 Patch Size\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect: 1.16 GB\n- Steam: 780 MB\n- Xbox One: 1.09 GB\n- Xbox Series X: 1.32 GB\n- PlayStation 4: 1.62 GB\n- PlayStation 5: 1.28 GB\n\n# BUG FIXES\n\n## GAMEPLAY\n\nFIXED - Operators can't escort the hostage using the controller input if they're holding a deployable device.\n\nFIXED - Devices placed on the ceiling are detected outside in 2F Red Stairs on the Kanal map.\n\nFIXED - Wrong VFX is triggered when using Oryx's Remah Dash against an opponent standing next to an indestructible wall.\n\nFIXED - Players get an advantageous line of sight when using Azami's Kiba Barrier.\n\nFIXED - Various advantageous position issues when using Azami's Kiba Barrier.\n\n## LEVEL DESIGN\n\nFIXED - Red barrier is missing during the Preparation Phase after destroying barrel wall in B Tasting Room on the Villa map.\n\nFIXED - Operators are able to go out of bounds at the west wall of EXT Tunnel on the Bank map.\n\nFIXED - Defenders are detected outside when standing next to a wall in 1F Trophy Room on the Chalet map.\n\nFIXED - Barricades float when placed at 2F Master Bedroom on the Oregon map.\n\nFIXED - Operator becomes stuck when going on top of the white chair next to the fruit stand in EXT Market on the Favela map.\n\nFIXED - Operators can get stuck in the barrel located on the Clubhouse map.\n\nFIXED - Ace's S.E.L.M.A. Aqua Breacher doesn't detonate a second time when throwin on the destructible wall of the Consulate map.\n\n## AUDIO\n\nFIXED - VFX does not match with the timer when joining a match in progress.\n\n## USER EXPERIENCE\n\nFIXED - Operators have improper idle animations in the Operator album.\n\nFIXED - Commendation system is occasionally greyed out.\n\nFIXED - Teammate outlines are inconsistently displayed.\n\nFIXED - Devices are detected as outside when deployed inside 2F Piano Room on the Chalet map.\n\nFIXED - The Maps tab for the Standard playlist is empty while playing in offline mode.\n\nFIXED - Crosshair disappears aiming down sight multiple times after respawning.\n\nFIXED - Operator Portraits and Card Backgrounds rewards are not displayed after opening a pack.\n\nFIXED - Match options only available to the host when in Custom Match lobby.\n\nFIXED - Placeholder text is present for the defuser location when planted at 4F Cockpit on the Yacht map.\n\nFIXED - Language packs missing for Ukraine region.\n\nFIXED - Multiple LOD issues on various maps.\n\nFIXED - Various shop and Customization issues.\n\nFIXED - Various Localization issues.\n\n---\n\nFollow us and share your feedback on [Twitter](https://twitter.com/Rainbow6Game), [Reddit](https://www.reddit.com/r/Rainbow6/), [Facebook](https://www.facebook.com/Rainbow6/) and on our[forums](https://discussions.ubisoft.com/category/609/rainbow-six-siege?lang=en-US).",
-    "categories": [
-      "rainbow-six-siege"
-    ],
-    "readTime": 3,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5MhtA9MfeyId8QLbETK3wx/y8s32-patch-notes",
-    "date": "2023-09-26T09:45:00.000Z"
   }
 ]
