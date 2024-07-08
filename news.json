@@ -98,7 +98,7 @@
     "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6mPtuvqgzKdHokQNmIzay3/430a42055130bfd938a1bae12a627cfc/Y9S1.3_PatchNotes.960x540.jpg",
     "content": "## Y9S1.3 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n-   Ubisoft Connect: 935 MB\n-   Steam: 860 MB\n-   Xbox One: 1.1 GB\n-   Xbox Series X: 10.73 GB\n-   PlayStation 4: 1.4 GB\n-   PlayStation 5: 1.34 GB \n\n## OPERATOR BALANCING\n\n### AZAMI\n\n-   Increased damage from High caliber Handguns and Revolvers by 10%.\n-   Increased damage received by Medium caliber SMGs and ARs by 10%.\n-   Increased damage received by High caliber ARs and LMGs by 5%.\n\n### IANA\n\n-   Added Impact EMP Grenade.\n-   Removed Stun Grenades.\n\n### LESION\n\n-   Gadget refill increased to 25 seconds (from 20).\n-   Initial damage reduced to 3hp (from 5).\n-   Added Observation Blocker.\n-   Removed Impact Grenades.\n\n### NØKK\n\n-   HEL Presence Reduction duration and cooldown increased to 30 seconds (from 20).\n\n### ORYX\n\n-   Remah Dash destroys Deployable and Talon Shields.\n\n### SENS\n\n-   R.O.U. Projectors increased to 4 (from 3).\n\n## GADGET BALANCING\n\n### IMPACT GRENADE:\n\n-   Damage reduced to 40hp (from 60).\n-   Reduced explosion radius to 2 meters (from 3).\n\n### BALLISTIC SHIELDS:\n\n- Explosion threshold to trigger the Guard Break reduced to 30hp (from 50).\n",
     "categories": [
-      "game-updates"
+      "patch-notes"
     ],
     "readTime": 2,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6ZsfBMeGT0Anuu0IHjDQ0P/y9s13-patch-notes",
