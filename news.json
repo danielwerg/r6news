@@ -17,7 +17,7 @@
     "title": "Y9S4.3 PATCH NOTES",
     "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S4.3!",
     "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4L06f8aPahD1mVNllT9Haq/22f05d11b40ab05b7113392ba3f562e0/PATCHNOTES_Y9S4.3_960x540.jpg",
-    "content": "Here you can find the fixes for the Y9S4.3 patch.\n\n__Improved boot time by reducing unnecessary reboots (PC Only)__\n\n- Removed unnecessary reboots of RainbowSix.exe due to BattlEye relaunches\n- This streamlines the boot flow for users and reduces the time to get into the game by roughly 50%\n\n## BUG FIXES\n\n### USER EXPERIENCE\n\nFIXED - Squad Menu matchmaking settings are not saved after rebooting the game.",
+    "content": "Here you can find the fixes for the Y9S4.3 patch.\n\n__Improved boot time by reducing unnecessary reboots (PC Only)__\n\n- Removed unnecessary reboots of RainbowSix.exe due to BattlEye relaunches\n- This streamlines the boot flow for users and reduces the time to get into the game by roughly 50%\n\n## Quickmatch & Standard Map Pool Update\n\nHereford __[REDACTED]__ due to __[REDACTED]__. Stay tuned for __[REDACTED]__.\n\n## BUG FIXES\n\n### USER EXPERIENCE\n\nFIXED - Squad Menu matchmaking settings are not saved after rebooting the game.",
     "categories": [
       "rainbow-six-siege",
       "patch-notes"
