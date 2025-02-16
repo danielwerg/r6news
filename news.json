@@ -1,5 +1,20 @@
 [
   {
+    "id": "1yyppDElemqVlUXSVif55M",
+    "title": "Witness the start of Siege’s new era – Don’t miss the R6 Siege X showcase",
+    "abstract": "Celebrate the future of Rainbow Six Siege with us in Atlanta on March 13th!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/28DAhnCyWh17Tw23nJ6nnG/f0b0b58885f58679d92e89c2b097ce81/R6SX_SHOWCASE_UK.jpg",
+    "content": "A new era is on the horizon for Rainbow Six Siege ---one that sets the stage for the years to come of tactical and unique gameplay--- and we'd like to invite you to be a part of it: welcome to Siege X!\n\n## A NEW ERA IS ABOUT TO START\n\nhttps://youtu.be/KicgXPVOD4s\n\nThe R6 team has been working tirelessly to bring to life the biggest transformation in the game's history and its purpose is to reinforce Rainbow Six Siege's position at the top of tactical first-person shooters by introducing new ways to play, deepened tactical gameplay, refined game feel and major upgrades all around. To celebrate this new age of Siege, we are holding an exclusive event that you're invited to attend; The Rainbow Six Siege X Showcase.\n\n## ALL YOU NEED TO KNOW ABOUT THE SIEGE X SHOWCASE\n\nThe Rainbow Six Siege X Showcase will be taking place in Atlanta, Georgia on __March 13<sup>th</sup>, 2025__ at __5pm GMT / 6pm CET__  and will be broadcasted live.\\\nThis event promises to be an immersive and one-of-a-kind Siege experience, where players, creators and developers come together as we unveil all the evolutions coming with Siege X, and many more surprises!\\\nTune in live with your friends over on our [Twitch Channel](https://www.twitch.tv/rainbow6) and enjoy exclusive Twitch drops!\n\nRainbow Six Siege wouldn't be where it is without the dedicated community that rallies behind it. We can't wait to reveal everything soon and hope that Siege X not only reinforces what you love about it, but gets you as excited for its future as we are.\n\n- Don't forget to __SAVE THE DATE__ and come celebrate Siege!\n  - [Google](https://rainbow6.com/showcase-std-google)\n  - [Apple](https://rainbow6.com/showcase-std-apple)\n  - [Outlook](https://rainbow6.com/showcase-std-outlook)\n  - [Yahoo](https://rainbow6.com/showcase-std-yahoo)\n",
+    "categories": [
+      "rainbow-six",
+      "rainbow-six-siege",
+      "game-updates"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/1yyppDElemqVlUXSVif55M/witness-the-start-of-sieges-new-era-dont-miss-the-r6-siege-x-showcase",
+    "date": "2025-02-16T20:40:00.000Z"
+  },
+  {
     "id": "23HvPOVDBapE7jokNWIa1E",
     "title": "PLAYER PROTECTION - Y9S4 UPDATE",
     "abstract": "Find our latest Anti-Cheat and Anti-Toxicity updates.",
@@ -436,18 +451,5 @@
     "readTime": 6,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/2V90gThNqHBtmzK4Bf6AhV/anticheat-status-update-may-2024",
     "date": "2024-05-10T15:30:00.000Z"
-  },
-  {
-    "id": "4Xwna9dWPwd3m4KUcGrHIp",
-    "title": "Y9S1 Mid-Season Roadmap Update",
-    "abstract": "See the upcoming features detailed in this mid-season roadmap update.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4w3HMFvz9ZPOXFZs41XU7s/38693eb4c14d1e212d53f987b25c0915/Y9S1_Roadmap.jpg",
-    "content": "Each season, we provide a Roadmap update to offer further insights into the development of upcoming features to ensure transparent communication with all players. Each update and decision we make takes into account various elements such as player feedback, time allocated to ensure the quality of the features delivered, and more.  \n\nWith that in mind let's delve into this mid-season Roadmap update!  \n\n![[R6S] Y9S1 Mid-Season Roadmap Update y9 roadmap](//staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/28khzDs7VSyg7mM19oLalN/f98078c7e6d69bddc7324accb52fc9b0/roadmap.jpg)\n\n# ROADMAP UPDATES\n\n### [MAIN FEATURE] SIEGE MARKETPLACE\n\n- __Status: confirmed for Y9S2__\n\nSince its Beta launch, many of you have been engaging in buying and selling some of your favorite items with other players in the Siege Marketplace. With the upcoming Season 2, we are pleased to confirm that the Siege Marketplace will be fully launched and available for all players to use! \n\n### [PLAYER PROTECTION] STEAM IMPROVED BAN ENFORCEMENT (Part 1)\n\n- __Status: Part 1 confirmed for Y9S2__\n\nAs announced during the Year 9 Reveal Panel, we are doubling down on our efforts to address cheating in Siege. In Season 2, we will be focusing on a first iteration of an improved ban enforcement measure on Steam (PC), making it more difficult for cheaters to return to the game once banned. As this will be a new addition to our anti-cheat ecosystem, we are breaking down the feature into several iterations, with the first part scheduled for Season 2.  \n\n### [BALANCING] FENRIR & SOLIS UPDATE\n\n- __Status: Confirmed for Y9S2__\n\nOperator balancing is crucial to maintaining the competitiveness of Siege. As previously hinted, we have focused on the Defense side and will introduce Operator balancing updates to both Fenrir and Solis (Part 1) in the upcoming Season. The second part of Solis' update is currently scheduled for Season 3.\n\n### [NEW!][TRAINING] MAP TRAINING PLAYLIST\n\n- __Status: Confirmed for Y9S2__\n\nIn Season 2, significant updates will be introduced to Map Training. Newly added to the Year 9 Roadmap, the \"Endless Drill\" mode will be introduced to the Map Training playlist. Other announced presets and an additional set of maps are also confirmed for the new season.\n\n### [MAJOR FEATURE] MAP FILTERS IN STANDARD PLAYLIST\n\n- __Status: Confirmed for Y9S2__\n\nHaving more control over which maps you play has been a longstanding community request, which is why a new filtering feature will make its debut in the Standard Playlist. Map presets will be available in the menu, and will allow you to select your preferred maps.\n\n### [MAJOR FEATURE] REPUTATION SYSTEM\n\n- __Status: New target delivery: Y9S4__\n\nWe are continuously working on improving the Reputation System based on the feedback you have shared with us. Therefore, we have decided to keep this system in Beta phase until Season 4, allowing us to make necessary adjustments to enhance your experience in terms of transparency, effectiveness and overall fairness of the system.\n\n### [PLAYER COMFORT] AFTER-ACTION SCREEN 2.0\n\n- __Status: New target delivery: Y9S3__\n\nFor Player Comfort, the After-Action Screen will receive further updates this season and is currently scheduled for release in Season 3. With this feature, we aim to provide an accurate and insightful recap of each match of Rainbow Six Siege. \n\n### FULL REVEAL\n\nStay tuned for the Year 9 Season 2 Reveal coming up on Sunday, May 26th, at 5PM BST / 9AM PT / 12:00PM ET / 6PM CET. \n\n---\n\nJoin the discussion on [Twitter](https://twitter.com/Rainbow6Game), [Instagram](https://www.instagram.com/rainbow6game/), [Discord](https://discord.gg/rainbow6),  [Reddit](https://www.reddit.com/r/Rainbow6/), [Facebook](https://www.facebook.com/Rainbow6/), and [TikTok](https://www.tiktok.com/@rainbow6game). Check out the [roadmap](http://rainbow6.com/roadmap) for more information on all the features you can expect during Year 9.",
-    "categories": [
-      "game-updates"
-    ],
-    "readTime": 4,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/4Xwna9dWPwd3m4KUcGrHIp/y9s1-midseason-roadmap-update",
-    "date": "2024-05-06T16:11:00.000Z"
   }
 ]
