@@ -1,5 +1,19 @@
 [
   {
+    "id": "5tSruuyHLijziOSKy8Epk8",
+    "title": "Access the limited-time R6 Siege X Closed Beta",
+    "abstract": "Try out Rainbow Six Siege’s brand-new game mode, Dual Front, from March 13th to March 19th",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/K5EV6DulVy6rFyr2AlnSt/3794d154b0819ac7c51c618cf8860345/R6X_BETA_KEYART_960.jpg",
+    "content": "Immediately after the Siege X Showcase on March 13<sup>th</sup>, 2025, players will be able to access and test Dual Front, Rainbow Six Siege's newly revealed 6v6 game mode, in a limited-time Closed Beta.\n\n## WHAT IS DUAL FRONT\n\nThis unique, additional, permanent 6v6 game mode will be set on Siege's biggest map yet. Form up your squad from a curated roster of 35 operators, combining both Attackers and Defenders in ways never before seen, and get ready to secure enemy sectors whilst defending your own.\n\nTune in for the R6 Siege X Showcase to discover everything about Dual Front and get your access to the Closed Beta to try out the game mode.\n\n## EVERYTHING YOU NEED TO KNOW ABOUT THE R6 SIEGE X CLOSED BETA\n\nThe R6 Siege X Closed Beta will run from __March 13<sup>th</sup> @ 12pm PT / 3pm ET/ 8pm CET__, immediately after the conclusion of the R6 Siege X Showcase, to __March 19<sup>th</sup> @ 12pm PT / 3pm ET/ 8pm CET__, and will only be available on PlayStation 5, Xbox Series X|S and PC (Ubisoft Connect).\n\nTo access the R6 Siege X Closed Beta, simply watch the R6 Siege X Showcase on March 13<sup>th</sup>, via the official [Rainbow 6 Twitch channel](https://www.twitch.tv/rainbow6) or via a wide selection of [Content Creators' Twitch livestreams](https://www.twitch.tv/directory/category/tom-clancys-rainbow-six-siege), to earn a Closed Beta Twitch drop.\n\nMake sure to [link your Twitch and Ubisoft accounts](https://www.ubisoft.com/en-us/help/account/article/linking-your-twitch-and-ubisoft-accounts/000079308) in order to claim your drops.\n\nDrops will continue to be available on a selection of participating livestreams during the whole duration of the Closed Beta.\n\nAfter claiming the Closed Beta drop, follow the link sent by email to select your preferred platform to play on. Here are the next steps for each platform:\n\nIf you pick PC\n\n- The Closed Beta will automatically be added to your Ubisoft Connect Library\n- Download the Closed Beta\n\nIf you pick PlayStation 5 or Xbox Series X|S\n\n- You will receive a platform-specific Beta key\n- Redeem the key in the PlayStation Xbox store to unlock the Closed Beta\n- Download the Closed Beta\n\nYou can download and launch the Closed Beta as soon as you complete these steps, however the game servers will go live at the conclusion of the Siege X Showcase.\n\nOwning Rainbow Six Siege is not required to access the Closed Beta.\n\nThe Twitch drop campaign is already live! So join your favorite participating livestream and claim your Closed Beta access!",
+    "categories": [
+      "rainbow-six-siege",
+      "game-updates"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5tSruuyHLijziOSKy8Epk8/access-the-limitedtime-r6-siege-x-closed-beta",
+    "date": "2025-03-13T19:30:00.000Z"
+  },
+  {
     "id": "7gp7yFPZJLTjyJs1pCSVI3",
     "title": "Y10S1 Patch Notes Addendum",
     "abstract": "See the changes made over the course of the Y10S1 Season Test Server.",
@@ -436,19 +450,5 @@
     "readTime": 2,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/2EijZUDfWQQhiy68cGhhBD/y9s22-patch-notes",
     "date": "2024-07-09T09:15:00.000Z"
-  },
-  {
-    "id": "6WJt2qa45vHi0ST01V6vgJ",
-    "title": "Y9S2.1 Patch Notes",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S2.1!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7rMXvWW5nDUvZ7x3tZPkO/a7f3fed908df1b8b9abeaacee65096d3/PATCHNOTES_Y9S2_960x540.jpg",
-    "content": "# Y9S2.1 PATCH SIZE\n\nFind the download sizes for each platform below.\n-   Ubisoft Connect: 1.05 GB\n-   Steam: 1.6 GB\n-   Xbox One: 0.8 GB\n-   Xbox Series X: 1 GB\n-   PlayStation 4: 1.29GB\n-   PlayStation 5: 887 MB\n\n# BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Aiming down sight is cancelled when opening the scoreboard.\n\nFIXED - Reflex C reticle isn't centered on the Bearing 9.\n\nFIXED - Player's movement speed remains reduced if they reload while aiming down sight.\n\nFIXED - Players can eliminate more targets than what's needed in Target Drill on the Kafe Dostoyevsky map.\n\nFIXED - Claymores reappear after being destroyed by Electrified Barbed Wire.\n\n### LEVEL DESIGN\n\nFIXED - Drones can be hidden in the floor located at 2F Elevator Shaft on the Bank map.\n\nFIXED - Players are able to navigate on top of invisible collision located at EXT Docks Bridge on the Kanal map. \n\nFIXED - Flickering textures are present near ledges and on certain objects after destroying barricades when launching the Vulkan executable.\n\nFIXED - Grey carpets are difficult to destroy in 3F Cigar Balcony and 3F Cigar Lounge on the Kafe Dostoyevsky map.\n\nFIXED - Grey Carpets are difficult to destroy in 2F Pink Room on the House map.\n\n### OPERATORS\n\nFIXED - Players can use Ram's BU-GI Auto Breacher to reach unintended areas.\n\nFIXED - Smoke Screen becomes bulletproof when using Sens' R.O.U. Projector System.\n\nFIXED - Flores' RCE-Ratero Charge loses connection if any elimination is displayed while using the drone.\n\n### USER EXPERIENCE\n\nFIXED - Operator Voucher is missing in the new Battle Pass tab.\n\nFIXED - SEC and SINGLESHOT labels are overlapping other text in the Detailed Weapon Stats.\n\nFIXED - Tutorial rewards alert appears twice after completing the first tutorial.\n\nFIXED - Content disappears when backing out of rewards under the Battle Pass tab.\n\nFIXED - Placeholder text present in the headlines of the live version of the Patch Notes page.\n\nFIXED  - Default attachment skins can be added to favorites through the Operator album.\n\nFIXED - Scrolling with mouse wheel is unavailable in multiple customization menus.\n\nFIXED - Discount does not apply in Pack Manager.\n\nFIXED - Boot Camp universal attachment skin is unavailable for some weapons.\n\nFIXED - \"A Voucher is waiting\" modal is displayed near the end of the season when all operators have been unlocked.\n\nFIXED - Shield skins are missing from bundle content under the Shop tab.\n\nFIXED - The Universal attachment skin \"Lifeblood Flower\" isn't available for Glaz's OTs-03.\n\nFIXED - Various UI issues.\n\n### AUDIO\n\nFIXED - SFX for firing weapons persists after the end of the round.\n\nFIXED - Weapon firing SFX infinitely loops when operator is eliminated while downed.\n\n* * * * *\n\nFollow us and share your feedback on [Twitter](https://twitter.com/Rainbow6Game) and [Reddit](https://www.reddit.com/r/Rainbow6/).",
-    "categories": [
-      "rainbow-six-siege",
-      "patch-notes"
-    ],
-    "readTime": 3,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6WJt2qa45vHi0ST01V6vgJ/y9s21-patch-notes",
-    "date": "2024-06-20T09:15:00.000Z"
   }
 ]
