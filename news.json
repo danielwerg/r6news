@@ -1,5 +1,19 @@
 [
   {
+    "id": "6XrFt8UTFXgaeLpfcwTVHq",
+    "title": "Y10S1.1 PATCH NOTES",
+    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y10S1.1!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/62wFMVJt3CASa65WmGmsO3/380419aa428a9b6b83f005efc7db2d70/PATCHNOTES_Y10S1.1_960x540.jpg",
+    "content": "\nHere you can find the fixes for the Y10S1.1 patch.\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - End-of-match actions won't be recorded for players who disconnect then reconnect during the match. \n\nFIXED - Several operators' left hands clip through specific secondary weapons during the reload animation when the operator is in a prone position.\n\nFIXED - Rauora's D.O.M. Panel can't be deployed when the operator is facing the front side of the deployable shield.  \n\n<br>\n\n### OPERATORS\n\nFIXED - Deploying a breach charge near the trigger for Rauora's D.O.M. Panel closes the flaps.\n\nFIXED - No points are awarded when successfully deploying Rauora's D.O.M. Panel.\n\nFIXED - Rauora's D.O.M. Panel trigger does not open if the panel is closed on top of a drone.\n\nFIXED - Rauora's D.O.M. Panel won't deploy properly on doorways on a lower level if fired through a hatch.\n\nFIXED - Rauora's D.O.M. Panel won't deploy properly if fired through small hole in a wall.\n\nFIXED - Raurora's D.O.M. Panel crosshair remains visible when using Observation Tools.\n\nFIXED - Maestro's Evil Eye red laser light is improperly positioned, obstructing the player's field of view when using the camera at specific angles.\n\n<br>\n\n### USER EXPERIENCE\n\nFIXED - Incorrect message appears in the \"Ankle Biter\" drone skin description.\n",
+    "categories": [
+      "rainbow-six-siege",
+      "patch-notes"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6XrFt8UTFXgaeLpfcwTVHq/y10s11-patch-notes",
+    "date": "2025-03-24T09:15:00.000Z"
+  },
+  {
     "id": "5tSruuyHLijziOSKy8Epk8",
     "title": "Access the limited-time R6 Siege X Closed Beta",
     "abstract": "Try out Rainbow Six Siege’s brand-new game mode, Dual Front, from March 13th to March 19th",
@@ -437,19 +451,5 @@
     "readTime": 7,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6dN3Cvhf3lyZO52nAgcRuQ/y9s23-designers-notes",
     "date": "2024-07-24T13:00:00.000Z"
-  },
-  {
-    "id": "2EijZUDfWQQhiy68cGhhBD",
-    "title": "Y9S2.2 Patch Notes",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S2.2!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/27hhh43r3tvngQsKQjdaEL/5318fce56af3c92b1e0528225ecb3cde/NEWS_PATCHNOTES_Y9S2_960x540.jpg",
-    "content": "Here you can find the updates and fixes for the Y9S2.2 patch.\n\n# Y9S2.2 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect: 1.26 GB\n- Steam: 857 MB\n- Xbox One: 1 GB\n- Xbox Series X: 1.4 GB\n- PlayStation 4: 1.46 GB\n- PlayStation 5: 1.28 GB\n\n# BUG FIXES\n\n## GAMEPLAY\n\nFIXED - Deadzone sensitivity doesn't apply calibration properly.\n\nFIXED - Operators can melee through Shields.\n\n## LEVEL DESIGN  \n\nFIXED - Drones can clip inside the wall located in EXT Valley on the Border map.\n\n## OPERATORS\n\nFIXED - Ying's Candela ability has a low level of detail when held close to the operator.\n\n## USER EXPERIENCE\n\nFIXED - Drone's red scan ping doesn't display on Player's UI during preparation phase.\n\nFIXED - Dynamic play button text for Matchmaking is duplicated in the upper-left corner.\n\nFIXED - Some reticules for OTs-03 aren't affected by optic color and opacity changes.\n\nFIXED - Players can accept invites to ongoing custom online sessions.\n\nFIXED - \"Unlock with operator Specialties\" option is available after unlocking a pathfinder Operator with renown.\n\nFIXED - Hiding completed challenges can't be toggled by selecting the box under the Challenges tab.\n\nFIXED - Players can't scroll through the Battle Pass after accessing the Challenges tab.\n\n## AUDIO\n\nFIXED - Missing SFX when drones are destroyed while in support mode during the end of the round.\n\n## KNOWN ISSUE [PC]\nDue to a security update some third-party applications that interact with Siege may cause a crash on start-up.\n\nWe recommend temporarily disabling such applications until updated versions are released.",
-    "categories": [
-      "rainbow-six-siege",
-      "patch-notes"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/2EijZUDfWQQhiy68cGhhBD/y9s22-patch-notes",
-    "date": "2024-07-09T09:15:00.000Z"
   }
 ]
