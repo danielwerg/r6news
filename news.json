@@ -1,5 +1,19 @@
 [
   {
+    "id": "3adVE0FPbli42OBNXPdrr3",
+    "title": "Y10S1.3 PATCH NOTES",
+    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y10S1.3!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7lLYOpqZt63Sn40epoxgaD/50ec391f059af2a8598851a7191aae4e/PATCHNOTES_Y10S1.3_960x540.jpg",
+    "content": "See the upcoming changes to Rainbow Six Siege with the release of Y10S1.3.\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Ace Up the Sleeve badge doesn't count during an Ace round when enemy players reconnect to the match.\n\n### USER EXPERIENCE\n\nFIXED - Players are unable to connect on PC with error 0x00000140.\n\nFIXED - Players get stuck on the deployment phase and can't progress the match.\n\nFIXED - Equipped reputation card backgrounds don't update when a player has a change in their reputation.\n\nFIXED - Operator unlock videos don't play when unlocking Operators, and can't be viewed in the Operators section after being unlocked.\n",
+    "categories": [
+      "rainbow-six-siege",
+      "patch-notes"
+    ],
+    "readTime": 1,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3adVE0FPbli42OBNXPdrr3/y10s13-patch-notes",
+    "date": "2025-04-15T09:15:00.000Z"
+  },
+  {
     "id": "1T6bSlv03vnlIl69xjl6Pd",
     "title": "Y10S1.2 PATCH NOTES",
     "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y10S1.2!",
@@ -437,19 +451,5 @@
     "readTime": 11,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3ZO4TETkmQyyXSNXcQqi2w/player-protection-update",
     "date": "2024-08-02T15:15:00.000Z"
-  },
-  {
-    "id": "5yr68dk5Ez3UtuzmGFtjwb",
-    "title": "Y9S2.3 PATCH NOTES",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S2.3!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7uAbuofI0RTo7vHDWH57Lf/2791911753c3ab57b43238d0565188ef/PN_Y9S2.3_960x540.jpg",
-    "content": "Here you can find the updates and fixes for the Y9S2.3 patch.\n\n# Y9S2.3 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n-   Ubisoft Connect: 570 MB\n-   Steam: 486 MB\n-   Xbox One: 0.8 GB\n-   Xbox Series X: 1 GB\n-   PlayStation 4: 525 MB\n-   PlayStation 5: 3.63 GB\n\n# PLAYER PROTECTION\n\n__DEACTIVATION OF THE REPUTATION STANDING POP-UP:__\n\n- Instead of a Reputation Notice pop-up, a yellow dot will now appear on the main menu's Reputation System tile every time a player's current Reputation Standing changes.\n\n__DEACTIVATION OF TEAM KILL KICK:__\n\n- Players will no longer be kicked from a match after excessively killing or damaging too many allies but will still have reverse friendly fire activated. Team kills and ally damage will still count towards penalties and impact current reputation.\n\n# PlayStation® TOURNAMENT\n\n- The Rainbow Six Siege PlayStation® Tournaments feature has been deactivated permanently.\n\n# OPERATOR BALANCING\n\n### AZAMI\n\n- Kiba Barrier: Increased bullet damage received.\n\n### BUCK\n\n- Removed GONNE-6.\n\n### GRIDLOCK\n\n- Increased Trax Stingers' damage to 15hp (from 10).\n\n### ECHO\n\n- Added Magnified Scope to the MP5SD.\n- Changed to 3 health and 1 speed (from 2/2).\n\n### ELA\n\n- Removed Observation Blocker.\n- Added Impact Grenades.\n\n### MELUSI\n\n- Removed Magnified Scope from MP5.\n- Added ITA12S as a secondary weapon.\n- Increased Banshee Sonic Defense to 4 (from 3).\n\n### WAMAI\n\n- Removed Magnified Scope from MP5K.\n\n# BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Objective flow breaks when vaulting outside a window located at 2F East Corridor during the action phase of the Defense Tutorial. \n\n### LEVEL DESIGN  \n\nFIXED - Operator's leg clips through a wall next to the door located at 2F Day Care on the Theme Park map.\n\nFIXED - Players can navigate on top of the concrete cover located at 2F Target Corridor on the Stadium Alpha map.\n\n### OPERATORS\n\nFIXED - Fenrir's F-NATT Dread Mine can be clipped inside wooden panels using a bulletproof camera.\n\nFIXED - Players can do melee attacks with Montagne's Le Roc Shield before it's finished deploying.\n\n### USER EXPERIENCE\n\nFIXED - Chat loses functionality for all players if two users send a message with the maximum number of characters.\n\nFIXED - Battle Pass tab replaces the Main Menu tab when leaving the Battle Pass map and pressing the escape key at the same time.\n\nFIXED - Intro tab is incorrectly highlighted when going to the progression menu from a modal that takes you to the Battle Pass tab.        \n\nFIXED - Chat doesn't appear or is slow to load for other players of an online session if Text Chat channel is set to All.\n\nFIXED - Chat window shrinks in size if players send successive long messages.\n\nFIXED - Text chat messages are not sent when pressing Enter during the match.\n\nFIXED - Placeholder text is present for the Squad Leader in the bottom left corner of the screen during the After Action Report.\n\nFIXED - Recoil patterns occasionally won't load in the Advanced Weapon Stats section if players cycle through multiple attachments of the same type in full screen.\n\nFIXED - Fire Power weapon stat doesn't account barrel attachment changes.\n\nFIXED - Placeholder name and organization appear in the loadout menu of the shooting range and attacker repick before the player selects an operator.",
-    "categories": [
-      "rainbow-six",
-      "patch-notes"
-    ],
-    "readTime": 4,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5yr68dk5Ez3UtuzmGFtjwb/y9s23-patch-notes",
-    "date": "2024-07-25T09:15:00.000Z"
   }
 ]
