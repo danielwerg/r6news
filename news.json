@@ -1,5 +1,18 @@
 [
   {
+    "id": "3JOtomdNqBdS4SXQOWO0DJ",
+    "title": "Siege X Twitch Drops And TikTok Game Rewards Start June 10",
+    "abstract": "Get in-game bonuses by watching live Siege X gameplay on Twitch and TikTok!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3vkD8q7CiAMYmnAi3723RI/2bf38ceda723603c0a3125492ebd4a4a/R6TwitchDrops.jpg",
+    "content": "A new era for Siege begins when Siege X launches tomorrow, June 10, and to celebrate we're offering limited-time in-game rewards on both Twitch and TikTok!\n\n# Twitch Drops\n\nStarting at 9AM Pacific / 6PM CEST on June 10, you can unlock the __Dokkaebi Community Bundle__ by watching select partner streams on Twitch! See below for a full breakdown.\n\n## Rewards\n\n- Watch 30 Minutes: *SUISUI Weapon Charm*\n\n- Watch 2 Hours: *SUISUI Mk 14 EBR Weapon Skin*\n\n- Watch 4 Hours: *SUISUI Uniform*\n\n- Watch 6 Hours: *SUISUI Headgear*\n\nThese rewards will be available until 9AM Pacific / 6PM CEST on June 16.\n\nHow Do Twitch Drops Work?\n\nBe sure to follow these steps to make sure you're set up to earn Drops:\n\n- Step 1: Link your Twitch account and Ubisoft account. [Click here to link accounts now](https://drops-register.ubi.com/).\n\n- Step 2: Watch eligible streams. You'll earn progress toward various items by watching streams for 60 minutes or more. See above for details on how to get each available item.\n\n- Step 3: Claim Your Rewards. When you've earned a Drop, be sure to claim it in your Twitch Inventory. Once complete, your rewards will be waiting for you in-game.\n\n# TikTok Game Rewards\n\nAlso kicking off at 9AM Pacific / 6PM CEST on June 10 is the Siege X TikTok Game Reward offer, allowing you to earn 5 Alpha Packs by watching live gameplay from select creators streaming Siege X.\n\n## Rewards\n\n- Watch 3 minutes: *5x Alpha Packs*\n\n## How Do TikTok Game Rewards Work?\n\n- Step 1: Watch a participating TikTok creator livestreaming Siege X gameplay. Participating channels will display a \"Game Rewards\" tag in the top-right corner of the stream.\n\n- Step 2: After 3 minutes of watch time, Click the Share arrow in the lower-right and select the Game Rewards icon to view and claim the reward.\n\n- Step 3: You will receive a code for your reward that you can redeem through this website: [https://redeem.ubisoft.com/rainbow6-siege](https://redeem.ubisoft.com/rainbow6-siege/). You must log in with your Ubisoft account (or create a new one) to enter the code. After redeeming the code to your Ubisoft account, the items can be found in your in-game inventory.\n\nTikTok Game Rewards will be available until July 9, 2025.\n\nIf you are a streamer and are looking to participate in future creator opportunities on Rainbow Six Siege, be sure to apply to the [Ubisoft Creators Program](https://creatorsprogram.ubisoft.com/).",
+    "categories": [
+      "rainbow-six-siege"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3JOtomdNqBdS4SXQOWO0DJ/siege-x-twitch-drops-and-tiktok-game-rewards-start-june-10",
+    "date": "2025-06-09T08:00:00.000Z"
+  },
+  {
     "id": "1YokhAiCfRVETGqqtb4ZFp",
     "title": "Y10S2 Streamer Charm",
     "abstract": "New Rainbow Six Siege Streamer Charm for Y10S2!",
@@ -437,19 +450,5 @@
     "readTime": 3,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/28JxJtO5WMnRKyMvlC9Huo/y9s32-patch-notes",
     "date": "2024-10-08T09:15:00.000Z"
-  },
-  {
-    "id": "7MvHbYl5Rt0x47WC7XwhyW",
-    "title": "Y9S3.1 Patch Notes",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S3.1!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5NXpioZViXor2uO12IJmrs/1d819dbe2d90ee8f2374c179b853f401/PATCHENOTES_Y9S3.1_960x540.jpg",
-    "content": "Here you can find the fixes for the Y9S3.1 patch.\n\n## Y9S3.1 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n-   Ubisoft Connect: 1.15 GB \n-   Steam: 669 MB\n-   Xbox One: 1.34 GB\n-   Xbox Series X: 1.55 GB\n-   PlayStation 4: 1.89 GB\n-   PlayStation 5: 1.49 GB\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Synaptic charm equips a placeholder charm.\n\nFIXED - Thunderbird's Kona Station keeps healing while affected by EMP or Zoto Canister if the elite uniform is equipped.\n\nFIXED - Unable to type in chat using Cyrillic layout.\n\nFIXED - Players are able to block the EXT sewer with a Deployable Shield, preventing Attackers to pass.\n\nFIXED - Drone can see through wall in 2F Yellow Stairs in the Consulate map.\n\nFIXED - Tutorial Rewards modal does not appear after completing the tutorials.\n\nFIXED - Skopós's V10-Pantheon Shells prevent players from vaulting through windows.\n\nFIXED - Player is unable to customize Skopós's V10-Pantheon Shells Swap action on the controller.\n\nFIXED - Host and clients can have different rotation replications while in rappel.\n\nFIXED - The Luision weapon stats are displaying stats of the PBR92.\n\nFIXED - Join as a spectator is missing for custom local match.\n\nFIXED - Iana cannot be scanned while she has Gemini Replicator active.\n\nFIXED - Key bindings do not revert to default values.\n\nFIXED - Skopós's V10-Pantheon Shells transfer action cannot be remapped or assigned a secondary input.\n\nFIXED - Skopós's idle V10-Pantheon Shells can get concussed by Echo's Yokai drone.\n\nFIXED - Fire area of effect doesn't affect the hostage.\n\nFIXED - Placeholder name is present when user goes to the Shooting Range while matchmaking.\n\nFIXED - Grey filter is applied to the spectator POV when changing cameras during Skopós's V10-Pantheon Shells transition.\n\n### LEVEL DESIGN      \n\nFIXED - Excessive light coming out of the ceiling projector in 1F Projector Room on the Kanal map.\n\n### OPERATORS\n\nFIXED - Skopós has an unusual position during the Victory Celebration and is distorted in the team lineup.\n\nFIXED - Skopós has various camera, collision, and texture issues in Free for All Arcade game mode.\n\nFIXED - Fuze, Thunderbird, Clash, and Aruni are invisible when equipped with skins from certain Esports bundles.\n\nFIXED - The Operator's feet slide inward when using an Observation Tool while idle.\n\nFIXED - Skopós's foot sometimes lifts while idle.\n\nFIXED - Operator's left hand bends strangely and the knife model floats above it while performing a melee attack after firing the .44 Vendetta.\n\nFIXED - Skopós does not die from headshots in certain Arcade game modes.\n\n### USER EXPERIENCE\n\nFIXED - When spectating, player cards don't collapse or expand following an input.\n\nFIXED - Skopós's idle V10-Pantheon Shells will sometimes spawn in T-Pose.\n\nFIXED - Player is unable to customize Skopós's V10-Pantheon Shells Swap action on controller.\n\nFIXED - Stutter issues with DX12.\n\nFIXED - Crash during start-up with older GPUs on DX12.",
-    "categories": [
-      "rainbow-six-siege",
-      "patch-notes"
-    ],
-    "readTime": 3,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/7MvHbYl5Rt0x47WC7XwhyW/y9s31-patch-notes",
-    "date": "2024-09-24T09:15:00.000Z"
   }
 ]
