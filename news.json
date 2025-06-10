@@ -1,5 +1,19 @@
 [
   {
+    "id": "ixjnXu9g80eFVW3X7cNFF",
+    "title": "Y10S2.0 PATCH NOTES ADDENDUM",
+    "abstract": "Updates and fixes made over the course of the Y10S2 Season Test Server.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3SUXyU2roKG8M93sjoQZnf/54ed03ce8f56d678474c34ee5e667723/PN_Y10S2_960x540.png",
+    "content": "\nYou can find here the updates and fixes made over the course of the Y10S2 Season Test Server.\n\nFor the full Operation Daybreak Patch Notes, follow the link below.\n\n[Operation Daybreak Season Patch Notes](https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/seasons/daybreak)\n\n# Y10S2 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect : 51.9 GB - with Ultra HD Textures: 91.53 GB\n- Steam : 51.9 GB - with Ultra HD Textures: 39.1 GB\n- Xbox One : 37.6GB\n- Xbox Series X|S : 57.6 GB\n- PlayStation 4 : 48.63 GB\n- PlayStation 5 : 41.37 GB\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - No access to text chat for console players outside of the US.\n\nFIXED - The AirTEP and helicopter disappear from the player's screen (host or client) when extracting the hostage after a Join-In-Progress (JIP) session.\n\nFIXED - Game server crashes when a player in support mode attempts to deploy a drone immediately after pressing the respawn key.\n\nFIXED - The sabotage kit obstructs player visibility when entering DBNO at the start of sabotage.\n\nFIXED - Ace's S.E.L.M.A. Aqua Breacher can successfully breach electrified walls, bypassing electrical defenses.\n\nFIXED - The pulse animation in the minimap has been removed and now only appears in the headers when the player opens the menu or after dying.\n\nFIXED - Game crashes when Anti Aliasing is set to 4x.\n\nFIXED - Vaulting over a door barricade should result in consistent landing placement, whether or not the player has a shield equipped.\n\nFIXED - If the defuser is planted on a Kiba Barrier, it will be destroyed when that barrier is removed.\n\nFIXED - Enabling AMD FSR 2.0 causes the screen to turn black during gameplay.\n\nFIXED -Playlists are locked after exiting a 6 player squad.\n\nFIXED - A number placeholder briefly appears during the first boot while security measures are being downloaded.\n\nFIXED - The hostage extraction animation will unexpectedly appear during gameplay.\n\nFIXED - Attacking bots can be drawn indoors through combat, causing the remaining bots to stay outside for extended periods.\n\nFIXED - The free look prompt should not be visible while free look mode is active.\n\nFIXED - Player will plant instead of barricading when facing a door or window inside the objective room.\n\nFIXED - The vignette effect that appears during healing is active at the same time the player enter the objective room.\n\nFIXED - Attackers from Team B are not affected by Thatcher's EMP grenades from Team A.\n\nFIXED - The metallic middle bar of a deployed Alibi Prisma does not appear on IQ's electronic detector when viewed from below.\n\nFIXED - Oryx's Remah Dash will destroy the fire extinguishers without activating the smoke and concussion effects.\n\n### USER EXPERIENCE\n\nFIXED - Ram's BU-Gi appears with a placeholder texture in the operator menu.\n\nFIXED - \"Too many squadmates\" error message will appear if the player leaves a custom online lobby.\n\nFIXED - The lobby becomes unresponsive when the lobby owner closes the title.\n\nFIXED - Squad members remain in the After-Action Report (AAR) when the leader exits to the main menu, with the option to bring them along.\n\nFIXED - Player enters DBNO after falling to the ground.",
+    "categories": [
+      "rainbow-six-siege",
+      "patch-notes"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/ixjnXu9g80eFVW3X7cNFF/y10s20-patch-notes-addendum",
+    "date": "2025-06-10T21:15:00.000Z"
+  },
+  {
     "id": "3JOtomdNqBdS4SXQOWO0DJ",
     "title": "Siege X Twitch Drops And TikTok Game Rewards Start June 10",
     "abstract": "Get in-game bonuses by watching live Siege X gameplay on Twitch and TikTok!",
@@ -436,19 +450,5 @@
     "readTime": 6,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/77Iv7UsgPeQzJzbBQSTZaB/y9s33-designers-notes",
     "date": "2024-10-21T13:00:00.000Z"
-  },
-  {
-    "id": "28JxJtO5WMnRKyMvlC9Huo",
-    "title": "Y9S3.2 Patch Notes",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S3.2!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7o0irnJLJMPwK1UAYqo0zJ/3991a85c6bb4d0c0a40ab2d717798549/PATCHENOTES_Y9S3.2_960x540.jpg",
-    "content": "Here you can find the fixes for the Y9S3.2 patch.\n\n## Y9S3.2 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect: 943.3MB\n- Steam: 556MB\n- Xbox One: 2.66GB\n- Xbox Series X: 2.85GB\n- PlayStation®4: 3.347GB\n- PlayStation®5: 985MB\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Jackal loses visibility when Motion Blur is turned off if he takes damage while Eyenox Model III is active.\n\nFIXED - Hitting Maestro's Evil Eye with a melee attack corrupts the texture.         \n\nFIXED - PCX-33 assault rifle has no rumble effect during a full reload when Controller Vibration options are turned on.\n\nFIXED - The reticle of the Reflex C sight isn't centered on the SPAS-15 shotgun.   \n\nFIXED - Shield Operators are unavailable in the Weapon Roulette arcade.\n\nFIXED - Deploying Kapkan's Entry Denial Device on any doorway or window displays a second deploy prompt during the animation.\n\nFIXED - The End of Round replay shows the player who downed the last Operator of a team instead of the player who killed them.\n\nFIXED - The Equip button is missing when viewing an owned item in fullscreen from the Pack Highlights section.\n\n### LEVEL DESIGN       \n\nFIXED - Placeholder texture is present on the cans located on top of the vending machine in 1F Service Stairs of the Consulate map.\n\nFIXED - Player can vault onto the crate stack in EXT Generator on the Nighthaven map and drop the defuser into an unreachable area.\n\n### OPERATORS\n\nFIXED - The equipped primary weapon of some Operators float behind them when previewing their default Victory Celebration in fullscreen.\n\nFIXED - Skopós's V10-Pantheon Shells will place its shield behind itself if it switches into an idle state in a doorway with a lot of assets.\n\nFIXED - Skopós's V10-Pantheon Shells doesn't have a death animation in the Kill Cam or End of Round replay.\n\nFIXED - Corrupted model and texture of Skopós's V10-Pantheon Shells in the End of Round replay for the last-killed Attacker.\n\nFIXED - When swapping Skopós's V10-Pantheon Shells, the arrows in the fantasy HUD point the wrong way and the swap doesn't occur.\n\nFIXED - The shield of Skopós's V10-Pantheon Shells reattaches to the other side of the door frame after swapping Shells in the middle of a double door.\n\nFIXED - Skopós's V10-Pantheon Shells will sometimes spawn without its shield.\n\n### USER EXPERIENCE\n\nFIXED - Sometimes the player will get stuck in a loading screen if they launch the Shooting Range from the Operator section during matchmaking.",
-    "categories": [
-      "rainbow-six-siege",
-      "patch-notes"
-    ],
-    "readTime": 3,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/28JxJtO5WMnRKyMvlC9Huo/y9s32-patch-notes",
-    "date": "2024-10-08T09:15:00.000Z"
   }
 ]
