@@ -1,5 +1,18 @@
 [
   {
+    "id": "3OoYDaNafgLqmOeGiFSKrs",
+    "title": "Celebrate Y10S3 Season Launch with new Twitch Drops and TikTok Rewards!",
+    "abstract": "Tune into new season gameplay streams starting September 2 to earn an exclusive Weapon Charm and Alpha Packs!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7G0OEuQir1DJ7MuF5KDT6s/1afa177a5d446100dacc75916f85c70b/Y10S3_keyart_960x540.jpg",
+    "content": "Y10S3 arrives September 2! This season brings a new defense operator, freshly modernized maps, and much more. We'll have Twitch Drops active on the official Rainbow Six Twitch channels and select partner streams, and TikTok Rewards will be available to claim via any channel streaming Siege X content. The rewards are different on each platform, so be sure to tune in on both and claim them all for free!\n\n## Twitch Drops\n\nTwitch Drops will be live on September 2 at 9AM Pacific Time / 12PM Eastern Time and will conclude on September 9 at 9AM Pacific Time / 12PM Eastern Time.\n\n- Watch 90 Minutes: __HIGH STAKES COUNTDOWN CHARM__\n\n## TikTok Game Rewards\n\nTikTok Rewards will be live on September 2 at 9AM Pacific Time / 12PM Eastern Time and will conclude on October 2 at 9AM Pacific Time / 12PM Eastern Time.\n\n- Watch 6 Minutes: __3x ALPHA PACKS__\n\n## How Do Twitch Drops Work?\n\nBe sure to follow these steps to make sure you're set up to earn Drops:\n\n- Step 1: Link your Twitch account and Ubisoft account. [Click here to link accounts now](https://drops-register.ubi.com/).\n- Step 2: Watch eligible streams. You'll earn progress toward various items by watching streams for 30 minutes or more. See above for details on how to get each available item.\n\n- Step 3: Claim Your Rewards. When you've earned a Drop, be sure to claim it in your Twitch Inventory. Once complete, your rewards will be waiting for you in-game.\n\n## How Do TikTok Game Rewards Work?\n\n- Step 1: Watch a participating TikTok creator livestreaming Siege X gameplay. Participating channels will display a \"Game Rewards\" tag in the top-right corner of the stream.\n- Step 2: After 3 minutes of watch time, Click the Share arrow in the lower-right and select the Game Rewards icon to view and claim the reward.\n\n- Step 3: You will receive a code for your reward that you can redeem through this website: [https://redeem.ubisoft.com/rainbow6-siege](https://redeem.ubisoft.com/rainbow6-siege/). You must log in with your Ubisoft account (or create a new one) to enter the code. After redeeming the code to your Ubisoft account, the items can be found in your in-game inventory.\n- *Note**: Redeemable codes will be active until August 23, so make sure to redeem within the allocated time.*\n\nIf you are a streamer and are looking for info on future creator opportunities for Rainbow Six Siege X, be sure to apply to the [Ubisoft Creators Program](https://creatorsprogram.ubisoft.com/).",
+    "categories": [
+      "community"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3OoYDaNafgLqmOeGiFSKrs/celebrate-y10s3-season-launch-with-new-twitch-drops-and-tiktok-rewards",
+    "date": "2025-09-01T16:00:00.000Z"
+  },
+  {
     "id": "30q1fnyXFaLBPOdc3pzDEp",
     "title": "Y10S3 Streamer Charm",
     "abstract": "New Rainbow Six Siege Streamer Charm for Y10S3!",
@@ -428,19 +441,5 @@
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/51gYeQ7iJLRZgn91y0QCuZ/y9s43-patch-notes",
     "date": "2025-02-05T10:15:00.000Z"
-  },
-  {
-    "id": "1tsDAx2MeB6SAKYNtoKjrE",
-    "title": "Y9S4.2 PATCH NOTES",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y9S4.2!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/34cA7iEbpyUUxHDSRU6Y8r/280b83d8c2549c2791c4c3d68ef867cb/PATCHNOTES_Y9S4.2_960x540.jpg",
-    "content": "Here you can find the fixes for the Y9S4.2 patch.\n\n## Y9S4.2 PATCH SIZE\n\nFind the download sizes for each platform below.\n\n- Ubisoft Connect: 1.58 GB\n- Steam: 1.3 GB\n- Xbox One: 1.73 GB\n- Xbox Series X: 1.87 GB\n- PlayStation®4: 2.27 GB\n- PlayStation®5: 1.53 GB\n\n## OPERATOR BALANCING\n\n### ORYX\n\n- Reduced recovery time when dashing to 0.2 seconds (from 0.5).\n\n- Reduced recovery time when dashing against a wall to 0.3 seconds (from 0.5).\n\n- Reduced recovery time when dashing against an enemy to 0.1 seconds (from 0.5).\n\n### KAPKAN\n\n- Removed Nitro Cell.\n\n- Added Barbed Wire.\n\n### LESION\n\n- Mines' refill time increased to 30 seconds (from 25).\n\n- Reduced max. mines to 8 (from 9).\n\n### BUCK\n\n- Removed Hard Breach Charge.\n\n- Added Claymore.\n\n### RAM\n\n- Removed ITA12S.\n\n### SLEDGE\n\n- Reduced Health to 2 (from 3) and increased Speed to 2 (from 1).\n\n## WEAPON BALANCING\n\n### TCSG12\n\n- Damage: 75hp (from 63).\n\n### G36C\n\n- Reduced vertical recoil.\n\n- Reduced lateral recoil.\n\n### WEAPON CALIBERS\n\n- Slug's destruction reduced.\n\n### WEAPON CLASSES\n\n- Slug Shotguns' damage drop off start at 15 meters (from 25).\n\n- Slug Shotguns' damage drop off end at 25 meters (from 35).\n\n- Slug Shotguns' damage drop off minimum to 60% (from 70).\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Match doesn't end when reaching majority of votes to cancel the round.\n\nFIXED - Observation Tools have no signal when deployed on the edge of any surface if the player is moving sideways.\n\n### LEVEL DESIGN\n\nFIXED - Red walls denoting defender area restrictions can be vaulted through during the end of the Preparation Phase.\n\nFIXED - Operators are able to move on top of a shed after standing on a bench and forcing collision with a garden gnome in the EXT APC Area on the House map.\n\nFIXED - Hatch isn't completely destroyed by explosions in 1F Lounge on the Kanal map.\n\nFIXED - Players can move on top of a vending machine using Azami's Kiba Barrier in 2F Break room on the Border map.\n\n### OPERATORS\n\nFIXED - Blackbeard's Breach ability can be used while in guard break in a specific timing.\n\nFIXED - Rappel hook remains in player's hand after using Ash's Breaching Round while rappelling.\n\nFIXED - Blackbeard's primary weapons statistics compare to the H.U.L.L Deployable Shield instead of each other.\n\nFIXED - Blackbeard's MK17 CQB's iron sight clips through the player camera while aiming down sight.\n\nFIXED - \"Additional Magazines\" and \"Magazine Size\" are listed as \"0\" in the Blackbeard's Loadout menu.\n\nFIXED - Bullet damage disappears from Blackbeard's H.U.L.L. Deployable Shield when Blackbeard aims down sights.\n\nFIXED - Blackbeard's H.U.L.L. Deployable Shield breaks guard when Blackbeard dashes and is hit with a melee attack at the same time.\n\nFIXED - Blackbeard's H.U.L.L. Deployable Shield and equipped weapon isn't highlighted when Blackbeard spawns on the map when viewed in caster mode.\n\nFIXED - \"Enter\" prompt allows Osa to breach undamaged barricades while rappelling with the Talon-8 Clear Shield equipped.\n\n### USER EXPERIENCE\n\nFIXED - Tachanka's Elite Slava Korolyu skin isn't available in the Weapon Skins menu for the Bearing 9 Machine Pistol.\n\nFIXED - Breach Charge information hasn't been updated to reflect current season changes in the Battle Pass menu.\n\n### AUDIO\n\nFIXED - Blackbeard's sprint SFX is out of sync with the animation.",
-    "categories": [
-      "rainbow-six-siege",
-      "patch-notes"
-    ],
-    "readTime": 4,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/1tsDAx2MeB6SAKYNtoKjrE/y9s42-patch-notes",
-    "date": "2025-01-21T14:45:00.000Z"
   }
 ]
