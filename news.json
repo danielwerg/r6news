@@ -1,5 +1,18 @@
 [
   {
+    "id": "4Op8C264buFE1uaO6OjoRk",
+    "title": "Y10S3.3 Designer's Notes",
+    "abstract": "In this latest edition of Designer's Notes, we'll go into detail about the balancing changes that'll come with the Y10S3.3 update and give you some insight into the reasons behind them.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5tPbEshI4dHPOfaK7wNCl0/5f8da9b5dbaf73f1f99e5fb68070dddf/DESIGNER_NOTES_Y10S3.3_960X540.jpg",
+    "content": "\nIn this latest edition of Designer's Notes, we'll go into detail about the balancing changes that'll come with the Y10S3.3 update and give you some insight into the reasons behind them.\n\n# BALANCING MATRIX AND TOP OPERATOR BANS\n\n## WIN DELTA VS. PRESENCE\n\n![[R6S] Y10S3.3 Designer's Notes - R6S DN Y10S3.3 BalancingMatrix Att](//staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/75lHweqM2SgnnM4j6Lczzu/f462359ceaf4c06168011c6c1f9f42c7/R6S_DN_Y10S3.3_BalancingMatrix_Att.mp4)\n\n![[R6S] Y10S3.3 Designer's Notes - R6S DN Y10S3.3 BalancingMatrix Def](//staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7cFaYMIdKkJ5aRFGBZCjhn/8401e5eb4db1b6414d15b2cf6f779e80/R6S_DN_Y10S3.3_BalancingMatrix_Def.mp4)\n\n## OPERATOR BAN RATE\n\n![[R6S] Y10S3.3 Designer's Notes - R6S DN Y9S3.3 BanMatrix Att](//staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/vco6qIBMnjRXjNAoYsuMo/7274048cd2054587e1b840fe8926173f/R6S_DN_Y9S3.3_BanMatrix_Att.mp4-.mp4)\n\n![[R6S] Y10S3.3 Designer's Notes - R6S DN Y9S3.3 BanMatrix Def](//staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7l2xqjS9PrmVRtQWYzAnN6/87b01fc4b845ce67f75fc8bbff351f05/R6S_DN_Y9S3.3_BanMatrix_Def.mp4)\n\n## OPERATOR BALANCING\n\n* * * * *\n\n## DENARI\n\nAfter statistical analysis and player feedback on Denari, we've decided to revert some of the changes from previous patches. We can admit they may have been done too hastily, so we have reverted the damage change and reconnection delay. In addition, the Glaive-12 has not performed the way we expected, and it is receiving a package of buffs to make the weapon more viable in gunfights.\n\nWe've also taken in and understand feedback about its ability to create rotation holes feeling tedious. While slug shotguns can be used for rotation holes, the Glaive-12 primarily compliments Denari's T.R.I.P. connectors for precise lines of sight, foot holes and head holes.\n\n### T.R.I.P. CONNECTOR\n\n- T.R.I.P. connector laser deals 20 damage\n- T.R.I.P. connectors reconnect instantly after having their LoS blocked.\n\n### GLAIVE-12\n\n- Damage increased from 63 to 67\n- Damage range drop off increased up to 15 meters to match other slug shotguns\n- Improved recoil and first shot recoil (PC and Console)\n- Total ammunition increased from 29 to 44\n- Hip fire accuracy increased to match other slug shotguns\n\n## JÄGER\n\nWe are boosting Jäger's secondary options by including a handgun with sight. This change should add versatility to the loadout and a more reliable mid-range secondary for players that want to use the M870 as a primary weapon.\n\n### LOADOUT\n\n  - Secondary weapons:\n\n§ Added the P-10C\n\n## BANDIT\n\nHitting exterior soft walls before reinforcing is a common tactic used to improve sound propagation, allowing defenders inside the objective to better anticipate enemy movements outside. Bandit has traditionally lacked a reliable secondary weapon to perform this kind of setup independently. With the introduction of the Keratos .357, Bandit gains the ability to create his own openings on exterior walls, enhancing his self-sufficiency during the preparation phase and reducing reliance on teammates for early-round destruction.\n\n### LOADOUT\n\n- Secondary weapons:\n- Added the Keratos .357\n\n## SOLIS\n\nSolis' use of her ability has not improved after the latest changes. Players don't get enough benefit from it, and we want to attend to this. We are reviewing her ability configuration and buffing a few parameters: the range of the ability will be increased, along with its Overclock duration.\n\nWe are also bringing back the Impact Grenades in her loadout to make her a more versatile roamer.\n\n### SPEC-IO\n\n- Detection Range set to 20m (was 12m).\n- Overclock Duration set to 15s (was 10s).\n- Minimum SPEC-IO charge to activate the ability set to 25% (was 50%).\n\n### LOADOUT\n\n- Gadgets:\n  - Added Impact Grenades and removed Bullet Proof Camera.\n\n* * * * *\n\nFollow us and share your feedback on [X](https://twitter.com/Rainbow6Game) and [Reddit](https://www.reddit.com/r/Rainbow6/).",
+    "categories": [
+      "rainbow-six-siege"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/4Op8C264buFE1uaO6OjoRk/y10s33-designers-notes",
+    "date": "2025-10-13T01:45:00.000Z"
+  },
+  {
     "id": "15Jjr7ozSy928q2aqqGyss",
     "title": "An Update to the Siege Community",
     "abstract": "We've been reading your feedback and recognize there are important subjects we need to address.",
@@ -426,19 +439,5 @@
     "readTime": 5,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/7gp7yFPZJLTjyJs1pCSVI3/y10s1-patch-notes-addendum",
     "date": "2025-03-04T21:15:00.000Z"
-  },
-  {
-    "id": "4Uf2IvRS00iq4XCR2UhkYy",
-    "title": "Y10S1 Celebration Pack",
-    "abstract": "Celebrate a new era of Siege with a selection of the best cosmetics released in the last 9 years.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2t08tEXWZIsDbLmnDGNASF/d843bc5d88360d7c4b8fb8960f420c72/r6s_celebration_pack.jpg",
-    "content": "## BRINGING BACK THE BEST OF SIEGE\n\nWe are celebrating a new era of Rainbow Six Siege with a special limited-time cosmetics pack available only during Y10S1 - the Celebration Pack!\n\nThe Celebration Collection contains the best items released over the last 9 years of Siege, including past limited-time Event Collections, top 20 items from each Battle Pass, and seasonal signature weapon skins as far back as Year 1.\n\nUnopened Celebration Packs will be tradeable on the Marketplace later this year.\n\n### MULTIPLE WAYS TO UNLOCK\n\nCelebration Packs containing duplicates can be unlocked in the free Battle Pass and with Renown:\n\n1 Pack: 15 000 Renown\\\n5 Packs: 75 000 Renown\\\n25 Packs: 337 500 Renown\\\n50 Packs: 600 000 Renown\n\nGet non-duplicate Celebration packs from the Premium Battle Pass and Membership drops.\n\n# CELEBRATION COLLECTION\n\nThe Celebration Collection consists of more than 1400 items made up of 20% legendary, 55% epic, and 25% rare items. Each item has a 0.07% chance of dropping in packs that contain duplicates. Non-duplicate packs have moving odds depending on your inventory.\n\n<center>\n\nSee the complete list [in the PDF file](https://rainbow6.com/celebration_pack_full_list).\n\n![[R6S] Celebration Pack - QR](//staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ul9LVVQoPWyGkLD4Ny56I/32933fb9f2ba820bbeec1afd81194cf2/qr-code-celebrationpackfulllist_150.png)\n\n</center>\n",
-    "categories": [
-      "rainbow-six-siege",
-      "shop"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/4Uf2IvRS00iq4XCR2UhkYy/y10s1-celebration-pack",
-    "date": "2025-03-03T15:15:00.000Z"
   }
 ]
