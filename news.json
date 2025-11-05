@@ -1,5 +1,19 @@
 [
   {
+    "id": "28jGpxqB8rBQVTS2pmraoI",
+    "title": "Y10S3 ROADMAP UPDATE",
+    "abstract": "Check out what's coming to Siege X in the Y10S3 Roadmap Update.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4gySqoKik4LZ12COp4Of5r/585bbec290df8fbe6835ed350b863553/Y10S3_ROADMAP_960x540.jpg",
+    "content": "In our latest roadmap update, we’ve got further insights into the development of upcoming features, ensuring transparent communication with all players. Each update and decision we’ve made takes into account various elements such as player feedback, the time allocated to ensure the quality of the features delivered, and more.\n\n## ROADMAP UPDATES\n\n### [OPERATOR REMASTER] ATTACKER \n\n- Status: Confirmed for Y10S4\n\nA current operator will be getting the remaster treatment in Season 4, bringing an updated gadget and loadout.\n\n### [NEW WEAPON] NEW CROSS-OPERATOR WEAPON\n\n- Status: Confirmed for Y10S4  \n\nThe upcoming operator remaster will arrive with a new weapon, further refreshing their loadout. This new weapon will also be made available to a select number of operators.\n\n### [MAJOR FEATURES] MAP FULL REWORK\n\n- Status: Confirmed for Y10S4\n\nThe first modernized full map rework will be coming in Season 4 and joining the Ranked pool.\n\n### [MAJOR FEATURES] NEW MODERNIZED MAPS\n\n- Status: Confirmed for Y10S4  \n\nTwo modernized maps are coming in Season 4. As with previously modernized maps, this includes a visual overhaul and the addition of destructible elements that you’ve seen in other modernized maps like Chalet and Clubhouse.  \n\n- Skyscraper  \n- Theme Park\n\n### [MAJOR FEATURE] RANKED MATCHMAKING IMPROVEMENTS\n\n- Status: Confirmed for Y10S4\n\nChanges are coming to Ranked matchmaking based on your feedback which will increase fairness and consistency.\n\n### [MAJOR FEATURE] NEW PLAYLIST: TESTING GROUNDS\n\n- Status: Confirmed for Y10S4  \n\nTesting Grounds will be a brand-new playlist for all platforms, built to explore new ideas, gather your feedback, and shape the future of Siege together.  \nFirst Testing Grounds topic: Speed & Armor.\n\n### [BALANCING] HARD BREACH, DSEG, & MORE\n\n- Status: Confirmed for Y10S4  \n\nHard Breachers will receive balancing changes alongside an overhaul of the Disable State for Electronic Gadgets (DSEG) System, with more to be announced in the Y10S4 season reveal.\n\n### [R6 SHIELDGUARD] SECURITY IMPROVEMENTS\n\n- Status: Confirmed for Y10S4  \n\nR6 ShieldGuard will receive a boost in how often updates are deployed. We continue to actively address the increase in cheating felt in-game.\n\n### [ANTI-TOXICITY] ABANDONMENT PENALTY IMPROVEMENTS\n\n- Status: Delayed to Y11  \n\nReceiving an abandonment penalty due to a game crash or disconnection can be frustrating, and to this end our team is developing solutions to ensure that, where possible, unfair penalties are cancelled.\n\n### [ANTI-TOXICITY] ADDITIONAL REPUTATION SYSTEM ACTION DETECTIONS\n\n- Status: Delayed to Y11  \n\nThe Reputation System will be updated to increase the amount of actions that can be detected and evaluated when calculating Reputation Standings. This will help give us an improved view of player actions and the impact that they’re having on other players, while bringing further accuracy to Reputation Standings.\n\n### [TRAINING & ONBOARDING] ENLISTED & FIELD TRAINING AI ALLIES\n\n- Status: Confirmed for Y10S4  \n\nAdding AI Allies to both Enlisted and Field Training to give you the real squad experience while training.\n\n### [TRAINING & ONBOARDING] TARGET DRILL: MOVING TARGETS\n\n- Status: Confirmed for Y10S4  \n\nAddition of moving Defender targets to Target Drill.\n\n### [TRAINING & ONBOARDING] TRAINING PLAYLISTS: MINI-MAP\n\n- Status: Confirmed for Y10S4  \n\nIntroducing a new mini-map feature in training playlists to help aid navigation and learning.\n\n## FULL REVEAL\n\nStay tuned for the **Year 10 Season 4 reveal** coming up on Sunday, **November 16th**, at 9AM PT / 12PM ET / 6PM CET.\n\nJoin the discussion on [Twitter](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), and [TikTok](https://www.tiktok.com/@rainbow6game).  \n\nCheck out the [public Roadmap](http://rainbow6.com/roadmap) for more information on the changes coming your way!",
+    "categories": [
+      "community",
+      "rainbow-six-siege"
+    ],
+    "readTime": 4,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/28jGpxqB8rBQVTS2pmraoI/y10s3-roadmap-update",
+    "date": "2025-11-05T16:30:00.000Z"
+  },
+  {
     "id": "3Sa5V9XNX3cDkA9RkuCOZG",
     "title": "New Twitch Drops Available During the Doktor’s Curse Event!",
     "abstract": "Get a free weapon skin starting October 22 by watching Doktor’s Curse event gameplay streams!",
@@ -419,19 +433,5 @@
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3adVE0FPbli42OBNXPdrr3/y10s13-patch-notes",
     "date": "2025-04-15T09:15:00.000Z"
-  },
-  {
-    "id": "1T6bSlv03vnlIl69xjl6Pd",
-    "title": "Y10S1.2 PATCH NOTES",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y10S1.2!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5obhNry0naMX0dXoOUPP12/a4958e299f1ab0502bc47d03ef24c4e9/PATCHNOTES_Y10S1.2_960x540.jpg",
-    "content": "See the upcoming changes to Rainbow Six Siege with the release of Y10S1.2.\n\n## BUG FIXES\n\n### OPERATORS\n\nFIXED - Rauora's D.O.M. Panel trigger won't work if the panel is closed while on a drone.\n\nFIXED - Rauora's D.O.M. Panel can't be deployed if it's facing the front of a deployable shield.\n\nFIXED - Rauora's D.O.M. Panel appears lowered in the killcam, even when it's actually raised.\n\nFIXED - Rauora's D.O.M. Panel trigger looks closed or missing after deployment during the end of round.\n\nFIXED - Rauora's D.O.M. Panel is placed incorrectly on a double door during the end of round.\n\nFIXED - Rauora's D.O.M. Panel doesn't deploy on lower floor doorways when shot through a hatch at a specific angle.  \n\nFixed - Rauora's D.O.M. Panel becomes unresponsive when its red target is shot.\n\n### USER EXPERIENCE\n\nFIXED - Universal weapon skins are missing for Skopós' PCX-33.\n",
-    "categories": [
-      "rainbow-six-siege",
-      "patch-notes"
-    ],
-    "readTime": 1,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/1T6bSlv03vnlIl69xjl6Pd/y10s12-patch-notes",
-    "date": "2025-04-01T09:15:00.000Z"
   }
 ]
