@@ -1,5 +1,19 @@
 [
   {
+    "id": "xvEzvsuxW34DS4WPs7zWA",
+    "title": "R6 SHIELDGUARD - Y10S3 UPDATE",
+    "abstract": "Get the latest information on R6 ShieldGuard.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/559zrwUcKjADrxpoQcPvU1/c7c19c7afcbbf1e6c8ecd5b8eae15a41/SHIELDGUARD_Y10S3_960x540.jpg",
+    "content": "The R6 ShieldGuard team is here to highlight the progress made this season, with some news on what's to come.\n\n## STATUS OVERVIEW\n\nCompetitive integrity is the foundation of Siege, and we've continued to listen to your concerns, and monitor your feedback. It's clear however, that cheating remains to be a core issue. We're committed to the betterment of Siege for all players, and although we have seen recent, minor improvements, it's important to note that this is part of a larger journey and vision.\n\nFirstly, we can confirm that we'll be doubling the cadence of R6 ShieldGuard updates in Season 4. Secondly, to help us develop the necessary improvements more quickly, we're working to share technology with partners across the industry. The R6 ShieldGuard team is also continuing to expand to accelerate future updates.\n\n## PLAN OF ACTION\n\n### MORE UPDATES IN SEASON 4\n\nFor multiple seasons now, we've been deploying R6 ShieldGuard updates with each patch and hotfix, but in Season 4 this will be changing. Starting next season, we'll be doubling how often these R6 ShieldGuard updates are pushed to the game, disrupting cheat makers more than ever before.\n\n### TARGETING HIGH PROFILE CHEATS\n\nOur team has targeted high profile cheat makers, and we are seeing results with these efforts. After recent updates were made, R6 ShieldGuard perma banned 1500 cheaters using high profile cheats, with an additional 2000 cheaters being perma banned while using a single notorious cheat product.\n\n### DISABLING CHEATS FOR LONGER\n\nThis season, we've been working to increase the impact we're having on cheat makers, keeping them offline for longer, and we've started to have more success in this area. This has resulted in us keeping select cheats offline for up to 5-7 days, up from 1 or 2 days previously. Our target is to carry this momentum forward, while we work to address the cheats that are disrupting legitimate players.\n\n## ADDRESSING ADDITIONAL CHEAT TYPES\n\n### ELO TRAPPING\n\nELO trapping is the act of intentionally matchmaking against known opponents who deliberately throw games to secure unfair wins and boost another account's ranking. A ban wave targeting ELO trappers was completed in October, with over 4300 cheaters being perma banned (including 36% of the top 100 console players). We will continuously ban any accounts related to ELO trapping.\n\n### BOTTING\n\nThis season we've seen bots infiltrating our less competitive game modes, mainly Team Deathmatch. We've perma banned over 6000 bots this season, and any accounts with suspicious botting activity will continue to be perma banned.\n\n### ANTI-RECOIL DETECTION\n\nWe've talked about our anti-recoil detection efforts before, and we want to confirm that it continues to be developed as part of R6 ShieldGuard. This is a complex, machine learning system which needs to train using high volumes of data. The system is currently in its data gathering phase behind the scenes, with further development and testing stages to follow.\n\n## PERMA-BAN NUMBERS - BATTLEYE + R6 SHIELDGUARD\n\nHere are our updated perma ban figures covering the last 12 months, with new data for August, September and October. The total monthly perma bans issued has continued to increase from February, with ban waves being completed across multiple cheat types.\n\n![[R6S] Y10S3 R6 ShieldGuard Update - 1](//staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6rEGxorhS8v00SBYt05vqg/618c74cbe68cd485e710adb438147fd4/R6_BanChart_Nov24-Oct25_Y10S3.jpg)\n\n## HOW YOU CAN HELP\n\n### ACTIVATE TWO FACTOR ATHENTICATION\n\nKeeping your account secure helps keep the game fair for everyone. That's why we strongly recommend enabling Two-Factor Authentication (2FA), especially using a mobile authenticator app if possible. By turning on 2FA, you're not just protecting your progress, you're helping us to fight cheating and keep the community safe. For more information on 2FA, check our [self-help article](https://www.ubisoft.com/help/account/article/000065723).\n\nREPORTING\n\nIn-game reporting continues to be the best way to get your reports to us, helping us to identify potential cheaters and take action.\n\nYour in-game reports help by:\n\n- Feeding our automated systems while combining with additional information.\n- Aiding the manual review process allowing cross reference for specific actions.\n\n- Providing an understanding of player perception on the current state of cheating at a global scale.\n\n## FINAL NOTE\n\nProtecting players is our number one priority. We've seen minor but noticeable improvements over recent weeks with our updates to R6 ShieldGuard, and we're working to continue on this trajectory. We'll have more to share in the Season 4 reveal panel, with changes that will aim to strengthen our protections and the day-to-day experience for everyone.\n\nCompetitive integrity is the foundation of Siege, and we will keep fighting with every patch and update to protect it.\n\n## YEAR 10 SEASON 4 - REVEAL PANEL\n\nA new season of Siege is almost here! Mark your calendars for __SUNDAY, NOVEMBER 16<sup>TH</sup>, 9AM PT | 12PM ET | 6PM CET.__\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), and [TikTok](https://www.tiktok.com/@rainbow6game).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).",
+    "categories": [
+      "community",
+      "rainbow-six-siege"
+    ],
+    "readTime": 5,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/xvEzvsuxW34DS4WPs7zWA/r6-shieldguard-y10s3-update",
+    "date": "2025-11-07T16:30:00.000Z"
+  },
+  {
     "id": "28jGpxqB8rBQVTS2pmraoI",
     "title": "Y10S3 ROADMAP UPDATE",
     "abstract": "Check out what's coming to Siege X in the Y10S3 Roadmap Update.",
@@ -419,19 +433,5 @@
     "readTime": 10,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/1N1qEcXvlvPG8z6EIa2MXx/r6-shieldguard-antitoxicity-y10s1-update",
     "date": "2025-05-08T12:30:00.000Z"
-  },
-  {
-    "id": "3adVE0FPbli42OBNXPdrr3",
-    "title": "Y10S1.3 PATCH NOTES",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y10S1.3!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7lLYOpqZt63Sn40epoxgaD/50ec391f059af2a8598851a7191aae4e/PATCHNOTES_Y10S1.3_960x540.jpg",
-    "content": "See the upcoming changes to Rainbow Six Siege with the release of Y10S1.3.\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Ace Up the Sleeve badge doesn't count during an Ace round when enemy players reconnect to the match.\n\n### USER EXPERIENCE\n\nFIXED - Players are unable to connect on PC with error 0x00000140.\n\nFIXED - Players get stuck on the deployment phase and can't progress the match.\n\nFIXED - Equipped reputation card backgrounds don't update when a player has a change in their reputation.\n\nFIXED - Operator unlock videos don't play when unlocking Operators, and can't be viewed in the Operators section after being unlocked.\n",
-    "categories": [
-      "rainbow-six-siege",
-      "patch-notes"
-    ],
-    "readTime": 1,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3adVE0FPbli42OBNXPdrr3/y10s13-patch-notes",
-    "date": "2025-04-15T09:15:00.000Z"
   }
 ]
