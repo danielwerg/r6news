@@ -1,5 +1,19 @@
 [
   {
+    "id": "3aYq6D0VHo1HJ5ZNfLtiNs",
+    "title": "Y10S4.1 PATCH NOTES",
+    "abstract": "See the upcoming changes to Rainbow Six Siege X with the release of Y10S4.1",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7jITMCnDjQwt9YXoD0dp3w/194e16e62f57bea455ece82c9ca71808/PATCH_NOTES_Y10S4.1_960x540.jpg",
+    "content": "See the upcoming changes with the release of Y10S4.1.\n\n## BALANCING\n\n### REVERTING LIMB DAMAGE REDUCTION\n\nIn [Y10S2](https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/8dJbwMqIt5Y8lZgwJRjWZ/y10s2-designers-notes), the damage dealt to limbs by all weapon types was reduced. However, after listening to player feedback on the manner, limb damage in Y10S4.1 is reverted to what it was before Siege X.\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Mute's Signal Disruptor can deactivate Fuze's Cluster Charge.\n\nFIXED - Players can't crouch through a damaged barricade without entirely destroying it in the process.\n\nFIXED - Defenders aren't detected outside while standing on a ledge above EXT Courtyard on the Fortress map.\n\nFIXED - Enemy outlines aren't visible for anyone when Solis's SPEC-IO Electro Sensor is active.\n\nFIXED - Players may be unable to move after going prone at 1F Back Entrance on House map.\n\nFIXED - In Dual Front, players don't immediately respawn in the next active sector when they've stayed in a lost sector too long.\n\nFIXED - In Dual Front, the defend objective icon doesn't fully load on the minimap and HUD after respawning.\n\nFIXED - In some prone positions, shooting an enemy in the arm doesn't hurt them.\n\nFIXED - Players can equip the PMR90A2 without it being unlocked. This causes a crash.\n\n### LEVEL DESIGN\n\nFIXED - Gap present after barricading a door at 2F Cash Corridor on Theme Park map.\n\n### USER EXPERIENCE\n\nFIXED - Wrong Operator pool listed in the Seasonal Content guide for Dual Front.\n\nFIXED - Duplicate Owned tag is present for various cosmetics when customizing loadout in the Operators section.\n\nFIXED - Can't browse the Ranks & Rewards section on consoles\n\nFIXED - Reconnecting to an online Custom Game sometimes results in an error stating the game is full.\n\n### AUDIO\n\nFIXED - The sound effect when deploying Goyo's Vulcan Canister cuts off before finishing.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01) and [TikTok](https://www.tiktok.com/@rainbow6game).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).",
+    "categories": [
+      "rainbow-six-siege",
+      "patch-notes"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3aYq6D0VHo1HJ5ZNfLtiNs/y10s41-patch-notes",
+    "date": "2025-12-11T10:30:00.000Z"
+  },
+  {
     "id": "7Ev8Ec9hPvcCC8Qn7zlotD",
     "title": "Y10S4 PATCH NOTES ADDENDUM",
     "abstract": "See the changes made over the course of the Y10S4 Season Test Server.",
@@ -414,19 +428,5 @@
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/u0TgNGWv5AJtJBMkFHpha/support-your-favorite-creators-with-siege-creator-codes",
     "date": "2025-06-10T14:15:00.000Z"
-  },
-  {
-    "id": "3JOtomdNqBdS4SXQOWO0DJ",
-    "title": "Siege X Twitch Drops And TikTok Game Rewards Start June 10",
-    "abstract": "Get in-game bonuses by watching live Siege X gameplay on Twitch and TikTok!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3vkD8q7CiAMYmnAi3723RI/2bf38ceda723603c0a3125492ebd4a4a/R6TwitchDrops.jpg",
-    "content": "A new era for Siege begins when Siege X launches tomorrow, June 10, and to celebrate we're offering limited-time in-game rewards on both Twitch and TikTok!\n\n# Twitch Drops\n\nStarting at 9AM Pacific / 6PM CEST on June 10, you can unlock the __Dokkaebi Community Bundle__ by watching select partner streams on Twitch! See below for a full breakdown.\n\n## Rewards\n\n- Watch 30 Minutes: *SUISUI Weapon Charm*\n\n- Watch 2 Hours: *SUISUI Mk 14 EBR Weapon Skin*\n\n- Watch 4 Hours: *SUISUI Uniform*\n\n- Watch 6 Hours: *SUISUI Headgear*\n\nThese rewards will be available until 9AM Pacific / 6PM CEST on June 16.\n\nHow Do Twitch Drops Work?\n\nBe sure to follow these steps to make sure you're set up to earn Drops:\n\n- Step 1: Link your Twitch account and Ubisoft account. [Click here to link accounts now](https://drops-register.ubi.com/).\n\n- Step 2: Watch eligible streams. You'll earn progress toward various items by watching streams for 60 minutes or more. See above for details on how to get each available item.\n\n- Step 3: Claim Your Rewards. When you've earned a Drop, be sure to claim it in your Twitch Inventory. Once complete, your rewards will be waiting for you in-game.\n\n# TikTok Game Rewards\n\nAlso kicking off at 9AM Pacific / 6PM CEST on June 10 is the Siege X TikTok Game Reward offer, allowing you to earn 5 Alpha Packs by watching live gameplay from select creators streaming Siege X.\n\n## Rewards\n\n- Watch 3 minutes: *5x Alpha Packs*\n\n## How Do TikTok Game Rewards Work?\n\n- Step 1: Watch a participating TikTok creator livestreaming Siege X gameplay. Participating channels will display a \"Game Rewards\" tag in the top-right corner of the stream.\n\n- Step 2: After 3 minutes of watch time, Click the Share arrow in the lower-right and select the Game Rewards icon to view and claim the reward.\n\n- Step 3: You will receive a code for your reward that you can redeem through this website: [https://redeem.ubisoft.com/rainbow6-siege](https://redeem.ubisoft.com/rainbow6-siege/). You must log in with your Ubisoft account (or create a new one) to enter the code. After redeeming the code to your Ubisoft account, the items can be found in your in-game inventory.\n\nTikTok Game Rewards will be available until July 9, 2025.\n\nIf you are a streamer and are looking to participate in future creator opportunities on Rainbow Six Siege, be sure to apply to the [Ubisoft Creators Program](https://creatorsprogram.ubisoft.com/).",
-    "categories": [
-      "rainbow-six-siege",
-      "community"
-    ],
-    "readTime": 3,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3JOtomdNqBdS4SXQOWO0DJ/siege-x-twitch-drops-and-tiktok-game-rewards-start-june-10",
-    "date": "2025-06-09T08:00:00.000Z"
   }
 ]
