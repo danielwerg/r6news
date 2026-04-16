@@ -1,5 +1,20 @@
 [
   {
+    "id": "26J24ZaYrlibAYTfApAzI2",
+    "title": "COMMUNITY CHECKPOINT #2: Y11S1.2 UPDATES",
+    "abstract": "In the latest Rainbow Six Siege community update, the dev team shared their insights behind important upcoming changes.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2iNk1wd8Sh8OqqZEhNilGn/e2bc1ed8add4ffcfd6eac223086dcefc/Y11S1_CMTY_RECAP_960x540.jpg",
+    "content": "In the latest Rainbow Six Siege community update, the dev team shared their insights behind important upcoming changes scheduled for the mid-season update of Year 11, Season 1. Topics included improving Ranked map rotation, balancing Operators, helping new players, and strengthening player protection.\n\n## RANKED MAP ROTATION CHANGES\nBased on player feedback, Ranked map rotation is getting a major shift. Instead of removing maps mid-season, five maps will be added, expanding the pool to 17. With Ranked 3.0, map bans will follow a new structure: \n- 2 maps from the competitive pool\n- 1 map from a showcased pool\n- 2 maps from a seasonal pool\n\nMap rotations will also be influenced by player behavior. Maps that are frequently banned will appear less often, while popular ones will show up more.\n\n## MID-SEASON OPERATOR BALANCING\nEight operators are being adjusted to improve fairness and gameplay experience. \nKey highlights: \n- Smoke gets his Deployable Shield back\n- Rauora receives D.O.M. Panel Launcher, D.O.M. Panel, and resource updates\n- Jackal gains new vertical tracking potential\n\nOther Operators like Glaz, Clash, Frost, Thunderbird and Grim are also receiving refinement changes. Read the full details on these Operator balancing updates in the [Y11S1.2 Designer's Notes](https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/4PenO2OgIyZV1AJSMKGllX).\n\n## YEAR 11 SEASON 2 OPERATOR REMASTER: DOKKAEBI\nThe Dokkaebi Remaster is a refocus. She’s always been a powerful Operator and we’re keeping it that way. Her changes aim to make her abilities more targeted while ensuring she will remain a strong and impactful attacker.\n\nOne more Operator remaster is planned for Year 11. \n\n## NEW PLAYER ONBOARDING \nA new phased onboarding system is coming to help ease new players into Siege:\n1. Bot-only matches \n2. Real teammates vs bots\n3. Beginner PvP matchmaking\n\nThis approach is designed to reduce early frustration and help players learn the game more smoothly.\n\n## PLAYER PROTECTION UPDATES \n- Mousetrap bans are now active \n- Improved chat detection now better recognizes positive behavior \n- Helpful communication contributes to Reputation Standing\n\n## FEEDBACK MATTERS\nPlayer feedback continues to directly shape updates like Ranked 3.0 and rotation changes, especially though seasonal surveys.\n\n## FINAL NOTE\nThis update focuses on making Siege more balanced, more accessible for new players, and more aligned with the community wants, while keeping the competitive experience strong.\n\n## WATCH THE FULL LIVESTREAM\nThese updates are part of a broader effort to protect players and strengthen Rainbow Six Siege in Year 11. For full details and developer insights, watch the [Community Checkpoint #2 livestream replay](https://www.twitch.tv/videos/2744632765) and hear directly from our teams.\n<br>\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01) and [TikTok](https://www.tiktok.com/@rainbow6game).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
+    "categories": [
+      "community",
+      "rainbow-six-siege",
+      "rainbow-six"
+    ],
+    "readTime": 3,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/26J24ZaYrlibAYTfApAzI2/community-checkpoint-2-y11s12-updates",
+    "date": "2026-04-16T13:00:00.000Z"
+  },
+  {
     "id": "ivbm7sXcU7iG89d7wQtlx",
     "title": "Y11S1.2 PATCH NOTES",
     "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y11S1.2!",
@@ -420,18 +435,5 @@
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6OoPiWwd0yyvopTYGzzkt1/get-a-weapon-skin-on-twitch-during-the-mute-protocol-flesh-metal-event",
     "date": "2025-09-16T16:00:00.000Z"
-  },
-  {
-    "id": "5NU5MpUyV3W8iN0kVt0pr8",
-    "title": "Y10S3.1 PATCH NOTES",
-    "abstract": "See the upcoming changes to Rainbow Six Siege X with the release of Y10S3.1!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7mIzTXsquVicON7tbUy0AB/a41b6a3e67e9c87d4f84ad4528896c0b/PATCH_NOTES_Y10S3.1_960x540.jpg",
-    "content": "See the upcoming changes with the release of Y10S3.1.\n\n## DUAL FRONT\nAdded FIRST FRONT, a new Daily challenge for Dual Front for 500 renown.\n\n## REPUTATION SYTEM\nVoice Chat Moderation will be enabled.\n\n## BUG FIXES\n\n### GAMEPLAY\n\nFIXED - Glass on Deployable Shield doesn't shatter after hitting and the shield can't be picked up.\n\nFIXED - Scoring doesn't count when downing or killing Operators planting a sabotage kit.\n\nFIXED - The scoring doesn't work after an operator eliminates or downs an enemy operator who is destroying the sabotage kit.\n\nFIXED - Echo's Yokai Drone is destroyed when jumping to the ceiling and passing through Denari's T.R.I.P. Connector.\n\nFIXED - Defenders are killed after a few seconds when remaining in an area where the 2nd node is lost in Dual Front.\n\n### OPERATORS\n\nFIXED - Freeze VFX missing from Tubarao's Zoto Canister during default reinforcement.\n\n### USER EXPERIENCE\n\nFIXED - Rename Other Player reveals the real name and the fake name of a player when reporting before the After Action Report.\n\nFIXED - Lobby is empty at the end of any custom match.\n\nFIXED - Glaive-12 shotgun doesn't hit an Operator's body when the shot hits a limb first.\n\nFIXED - Win Neutral Zone event and Win the Match challenges for Dual Front don't work.\n\nFIXED - Solis's SPEC-IO Electro Sensor Overclock HUD breaks when a Solis on each team use the ability at the same time in Dual Front.\n\nFIXED - \"Failed to do the action\" message pops up when trying to cancel an invite sent between Xbox consoles.   \n\nFIXED - Game becomes unplayable when a match starts while having moderated chat open.\n\nFIXED - Reconnect option and header are missing when leaving a playlist that has reconnect available.  \n\nFIXED - Uncommon rarity tag is not displayed in the 3D preview.\n\nFIXED - Banner image missing on Memento tile.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), and [TikTok](https://www.tiktok.com/@rainbow6game).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).",
-    "categories": [
-      "patch-notes"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5NU5MpUyV3W8iN0kVt0pr8/y10s31-patch-notes",
-    "date": "2025-09-16T09:15:00.000Z"
   }
 ]
