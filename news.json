@@ -26,6 +26,19 @@
     "date": "2026-06-10T13:00:00.000Z"
   },
   {
+    "id": "5wSBB6xoqdH6slG1Pr3mbA",
+    "title": "Y11S2 PATCH NOTES ADDENDUM",
+    "abstract": "See the changes made over the course of the Y11S2 Season Test Server.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78f6xHK3OdDNtFhTO4kn96/eb46587230405567aaef65618af8edb1/Y11S2_PATCHNOTES_ADDENDUM_960x540.jpg",
+    "content": "Find the updates and fixes made over the course of the Y11S2 Test Server, and check out the full Operation System Override Patch Notes [here](https://rainbow6.com/systemoverride).\n\n## BUG FIXES\n### GAMEPLAY\nFixed – Dropped phones emit a bright flashing light when viewed from different angles.\n\nFixed – Attackers other than Solid Snake are able to pick up OSP Pouches dropped by fallen Operators.\n\nFixed – Defusers placed inside the Fortress' bathtub cannot be picked up and defused when the wall tiles above it are shot.\n\n### AUDIO\nFixed – Viperstrike's voice-over is missing when talking with Nighthaven.\n\nFixed – Thorn's voice-over is missing when talking with Denari.\n\nFixed – Wolfguard's voice-over is missing when talking with Denari.\n\nFixed – Caveira's voice-over is missing when talking with Denari.\n\nFixed – No destruction sound effect plays when destroying any surface.\n\nFixed – Holding both lean buttons when they are set to HOLD results in audio distortion.\n\n### USER EXPERIENCE\nFixed – Players receive anti-spam warnings when AI teammates use the Smart ping system.\n\nFixed – \"No Trespassing - Get 10 Claymore kills in Quick Match/Ranked Multiplayer\" challenge cannot be unlocked.\n\nFixed – Bright light during Montagne's victory dance with MTG MK.II bundle equipped.\n\nFixed – Osa's tablet is too bright during victory dance with Star Child elite bundle equipped.\n\nFixed – Solis' headgear visor is too bright when selecting her from the Operators menu.\n\nFixed – Twitch's Shock Drone laser visual effect is too bright.\n\nFixed – Up and down inputs are unavailable in menu navigation after purchasing an Operator that can be unlocked via Challenges or Clearance level.\n\nFixed – Weapon charms appear cropped in locker preview camera.\n\nFixed – Progress indicator for hostage escort ends before completing a full circle.\n\nFixed – Location ping is always yellow, regardless of the color setting in Accessibility options.\n\nFixed – Walk button on keyboard prevents players from moving if Controller Deadzone is at 45 or higher.\n\nFixed – The Hold button icon doesn't appear when a hold action is available.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01), [TikTok](https://www.tiktok.com/@rainbow6game), and [YouTube](https://www.youtube.com/@Rainbow6).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
+    "categories": [
+      "community"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wSBB6xoqdH6slG1Pr3mbA/y11s2-patch-notes-addendum",
+    "date": "2026-06-02T16:00:00.000Z"
+  },
+  {
     "id": "7p3ki4nsIBrXSSyZUKthBW",
     "title": "New Twitch Drop for Operation System Override!",
     "abstract": "Celebrate the launch of Operation System Override with an exclusive weapon charm inspired by the legendary Calypso Casino map!",
@@ -37,19 +50,6 @@
     ],
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/7p3ki4nsIBrXSSyZUKthBW/new-twitch-drop-for-operation-system-override",
-    "date": "2026-06-02T16:00:00.000Z"
-  },
-  {
-    "id": "5wSBB6xoqdH6slG1Pr3mbA",
-    "title": "Y11S2 PATCH NOTES ADDENDUM",
-    "abstract": "See the changes made over the course of the Y11S2 Season Test Server.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78f6xHK3OdDNtFhTO4kn96/eb46587230405567aaef65618af8edb1/Y11S2_PATCHNOTES_ADDENDUM_960x540.jpg",
-    "content": "Find the updates and fixes made over the course of the Y11S2 Test Server, and check out the full Operation System Override Patch Notes [here](https://rainbow6.com/systemoverride).\n\n## BUG FIXES\n### GAMEPLAY\nFixed – Dropped phones emit a bright flashing light when viewed from different angles.\n\nFixed – Attackers other than Solid Snake are able to pick up OSP Pouches dropped by fallen Operators.\n\nFixed – Defusers placed inside the Fortress' bathtub cannot be picked up and defused when the wall tiles above it are shot.\n\n### AUDIO\nFixed – Viperstrike's voice-over is missing when talking with Nighthaven.\n\nFixed – Thorn's voice-over is missing when talking with Denari.\n\nFixed – Wolfguard's voice-over is missing when talking with Denari.\n\nFixed – Caveira's voice-over is missing when talking with Denari.\n\nFixed – No destruction sound effect plays when destroying any surface.\n\nFixed – Holding both lean buttons when they are set to HOLD results in audio distortion.\n\n### USER EXPERIENCE\nFixed – Players receive anti-spam warnings when AI teammates use the Smart ping system.\n\nFixed – \"No Trespassing - Get 10 Claymore kills in Quick Match/Ranked Multiplayer\" challenge cannot be unlocked.\n\nFixed – Bright light during Montagne's victory dance with MTG MK.II bundle equipped.\n\nFixed – Osa's tablet is too bright during victory dance with Star Child elite bundle equipped.\n\nFixed – Solis' headgear visor is too bright when selecting her from the Operators menu.\n\nFixed – Twitch's Shock Drone laser visual effect is too bright.\n\nFixed – Up and down inputs are unavailable in menu navigation after purchasing an Operator that can be unlocked via Challenges or Clearance level.\n\nFixed – Weapon charms appear cropped in locker preview camera.\n\nFixed – Progress indicator for hostage escort ends before completing a full circle.\n\nFixed – Location ping is always yellow, regardless of the color setting in Accessibility options.\n\nFixed – Walk button on keyboard prevents players from moving if Controller Deadzone is at 45 or higher.\n\nFixed – The Hold button icon doesn't appear when a hold action is available.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01), [TikTok](https://www.tiktok.com/@rainbow6game), and [YouTube](https://www.youtube.com/@Rainbow6).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
-    "categories": [
-      "community"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wSBB6xoqdH6slG1Pr3mbA/y11s2-patch-notes-addendum",
     "date": "2026-06-02T16:00:00.000Z"
   },
   {
