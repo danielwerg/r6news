@@ -1,5 +1,18 @@
 [
   {
+    "id": "2EIn06EmkAIG7su2fpITue",
+    "title": "Y11S2.3 PATCH NOTES",
+    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y11S2.3!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1rXZFQlTLUJR5wXUwc8oEH/66500d08879e7f580d063decbab54a48/patch2.3-960x540.jpg",
+    "content": "See the upcoming changes with the release of Y11S2.3.\n## CHANGES TO OPERATORS\n### HIBANA\n\"Hibana's X-Kairos already offers a high degree of flexibility, but deploying pellets can sometimes leave her exposed for longer than intended. This small adjustment reduces the delay before detonation, allowing her to act more quickly after committing utility.\" \n\n**X-KAIROS**\n- X-Kairos detonation timer reduced to 3.8s (was 4s).\n### MAVERICK\n\"Resource management is a core part of Maverick's gameplay. Increasing the available fuel gives players a bit more flexibility when creating openings, making the Breaching Torch more forgiving, without changing its overall role.\"\n\n**BREACHING TORCH**\n- Increased canister ammo to 160 (was 144).\n- Total ammo increased to 320 (was 288).\n\n### FUZE\n\"Fuze's Cluster Charges can be difficult to deploy on reinforced surfaces without exposing him to defenders. This small speed increase improves responsiveness and allows him to execute plays more reliably.\"\n\n**CLUSTER CHARGE**\n- Reduced breaching time on reinforced surfaces and Armor Panels to 1.75s (was 2s).\n### TUBARÃO\n\"The Zoto Canister's area of effect plays a key role in controlling space and denying actions. This small increase improves coverage and placement forgiveness, making its impact more consistent.\"\n\n**ZOTO CANISTER**\n- Increased Zoto Canister range to 3.2m (was 3m).\n### ORYX\n\"Oryx's mobility is central to his identity. Reducing the dash recharge time allows him to reposition and react more frequently, reinforcing his role as a highly mobile defender.\"\n\n**REMAH DASH**\n- Dash recharge time reduced to 5s (was 8s).\n### MUTE\n\"Mute's Signal Disruptors often require very precise placement to cover key entry points and drone paths. This increase in range makes deployments more forgiving and improves coverage consistency without changing how the gadget is used.\" \n\n**SIGNAL DISRUPTOR**\n- Increased disruption range to 2.6m (was 2.475m).\n- Increased disruption warning to 4.875m (was 4.75m).\n\n## CHANGES TO WEAPONS AND EQUIPMENT\n### IMPACT EMP GRENADE\n\"Impact EMP Grenades often rely on precise placement to affect multiple electronic devices. Increasing their radius makes these interactions more forgiving and consistent, without significantly expanding their overall utility.\"\n\n**CHANGES**\n- EMP Range increased to 2m (was 1.8m).\n\n**REAPER MK2**\n\n\"The Reaper MK2 is receiving a recoil refinement focused on improving comfort and consistency across both Mouse & Keyboard and Controller. These adjustments should make sustained fire more manageable without altering the weapon's overall identity.\" \n\n**RECOIL – M&K & CONTROLLER**\n- Recoil stages kick in later on the burst to Bullet 0,3,10,25 (was Bullet 0,3,7,13).\n\n## BUG FIXES\n### GAMEPLAY\nFIXED - Rappelling Attackers sometimes cannot enter balconies in Chalet.\n\nFIXED - Defenders are not detected outside at EXT Garage in Villa.\n\nFIXED - Operator is disabled and frozen in crouch if hit by concussion effect during Armor Pack pick up animation.\n\nFIXED - The hitbox of the fully extended Roc Shield is bigger than the model.\n\n### USER EXPERIENCE\nFIXED - Default value for \"Crossplay & Input devices\" setting is Mouse & Keyboard.\n\nFIXED - The Match Cancellation Vote will disappear should a second player from the same team disconnects.\n\nFIXED - Players with Elite and third party XBOX controllers plugged into consoles are being placed in PC lobbies.\n\nFIXED - Mouse & Keyboard is not detected on console.\n\nFIXED - Equipped items in the Locker do not show the equipped state.\n\nFIXED - 5 player squads in a PVE Quick Match get stuck in infinite loading during the second round.\n\n<br>\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01) and [TikTok](https://www.tiktok.com/@rainbow6game).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
+    "categories": [
+      "patch-notes"
+    ],
+    "readTime": 4,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/2EIn06EmkAIG7su2fpITue/y11s23-patch-notes",
+    "date": "2026-08-04T09:30:00.000Z"
+  },
+  {
     "id": "r8JQttOHXnT902HHbw7x3",
     "title": "PLAYER PROTECTION CORE RULES",
     "abstract": "In this article you will find behaviors that are forbidden in Siege.",
@@ -132,19 +145,6 @@
     "date": "2026-06-10T13:00:00.000Z"
   },
   {
-    "id": "5wSBB6xoqdH6slG1Pr3mbA",
-    "title": "Y11S2 PATCH NOTES ADDENDUM",
-    "abstract": "See the changes made over the course of the Y11S2 Season Test Server.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78f6xHK3OdDNtFhTO4kn96/eb46587230405567aaef65618af8edb1/Y11S2_PATCHNOTES_ADDENDUM_960x540.jpg",
-    "content": "Find the updates and fixes made over the course of the Y11S2 Test Server, and check out the full Operation System Override Patch Notes [here](https://rainbow6.com/systemoverride).\n\n## BUG FIXES\n### GAMEPLAY\nFixed – Dropped phones emit a bright flashing light when viewed from different angles.\n\nFixed – Attackers other than Solid Snake are able to pick up OSP Pouches dropped by fallen Operators.\n\nFixed – Defusers placed inside the Fortress' bathtub cannot be picked up and defused when the wall tiles above it are shot.\n\n### AUDIO\nFixed – Viperstrike's voice-over is missing when talking with Nighthaven.\n\nFixed – Thorn's voice-over is missing when talking with Denari.\n\nFixed – Wolfguard's voice-over is missing when talking with Denari.\n\nFixed – Caveira's voice-over is missing when talking with Denari.\n\nFixed – No destruction sound effect plays when destroying any surface.\n\nFixed – Holding both lean buttons when they are set to HOLD results in audio distortion.\n\n### USER EXPERIENCE\nFixed – Players receive anti-spam warnings when AI teammates use the Smart ping system.\n\nFixed – \"No Trespassing - Get 10 Claymore kills in Quick Match/Ranked Multiplayer\" challenge cannot be unlocked.\n\nFixed – Bright light during Montagne's victory dance with MTG MK.II bundle equipped.\n\nFixed – Osa's tablet is too bright during victory dance with Star Child elite bundle equipped.\n\nFixed – Solis' headgear visor is too bright when selecting her from the Operators menu.\n\nFixed – Twitch's Shock Drone laser visual effect is too bright.\n\nFixed – Up and down inputs are unavailable in menu navigation after purchasing an Operator that can be unlocked via Challenges or Clearance level.\n\nFixed – Weapon charms appear cropped in locker preview camera.\n\nFixed – Progress indicator for hostage escort ends before completing a full circle.\n\nFixed – Location ping is always yellow, regardless of the color setting in Accessibility options.\n\nFixed – Walk button on keyboard prevents players from moving if Controller Deadzone is at 45 or higher.\n\nFixed – The Hold button icon doesn't appear when a hold action is available.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01), [TikTok](https://www.tiktok.com/@rainbow6game), and [YouTube](https://www.youtube.com/@Rainbow6).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
-    "categories": [
-      "community"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wSBB6xoqdH6slG1Pr3mbA/y11s2-patch-notes-addendum",
-    "date": "2026-06-02T16:00:00.000Z"
-  },
-  {
     "id": "7p3ki4nsIBrXSSyZUKthBW",
     "title": "New Twitch Drop for Operation System Override!",
     "abstract": "Celebrate the launch of Operation System Override with an exclusive weapon charm inspired by the legendary Calypso Casino map!",
@@ -156,6 +156,19 @@
     ],
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/7p3ki4nsIBrXSSyZUKthBW/new-twitch-drop-for-operation-system-override",
+    "date": "2026-06-02T16:00:00.000Z"
+  },
+  {
+    "id": "5wSBB6xoqdH6slG1Pr3mbA",
+    "title": "Y11S2 PATCH NOTES ADDENDUM",
+    "abstract": "See the changes made over the course of the Y11S2 Season Test Server.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78f6xHK3OdDNtFhTO4kn96/eb46587230405567aaef65618af8edb1/Y11S2_PATCHNOTES_ADDENDUM_960x540.jpg",
+    "content": "Find the updates and fixes made over the course of the Y11S2 Test Server, and check out the full Operation System Override Patch Notes [here](https://rainbow6.com/systemoverride).\n\n## BUG FIXES\n### GAMEPLAY\nFixed – Dropped phones emit a bright flashing light when viewed from different angles.\n\nFixed – Attackers other than Solid Snake are able to pick up OSP Pouches dropped by fallen Operators.\n\nFixed – Defusers placed inside the Fortress' bathtub cannot be picked up and defused when the wall tiles above it are shot.\n\n### AUDIO\nFixed – Viperstrike's voice-over is missing when talking with Nighthaven.\n\nFixed – Thorn's voice-over is missing when talking with Denari.\n\nFixed – Wolfguard's voice-over is missing when talking with Denari.\n\nFixed – Caveira's voice-over is missing when talking with Denari.\n\nFixed – No destruction sound effect plays when destroying any surface.\n\nFixed – Holding both lean buttons when they are set to HOLD results in audio distortion.\n\n### USER EXPERIENCE\nFixed – Players receive anti-spam warnings when AI teammates use the Smart ping system.\n\nFixed – \"No Trespassing - Get 10 Claymore kills in Quick Match/Ranked Multiplayer\" challenge cannot be unlocked.\n\nFixed – Bright light during Montagne's victory dance with MTG MK.II bundle equipped.\n\nFixed – Osa's tablet is too bright during victory dance with Star Child elite bundle equipped.\n\nFixed – Solis' headgear visor is too bright when selecting her from the Operators menu.\n\nFixed – Twitch's Shock Drone laser visual effect is too bright.\n\nFixed – Up and down inputs are unavailable in menu navigation after purchasing an Operator that can be unlocked via Challenges or Clearance level.\n\nFixed – Weapon charms appear cropped in locker preview camera.\n\nFixed – Progress indicator for hostage escort ends before completing a full circle.\n\nFixed – Location ping is always yellow, regardless of the color setting in Accessibility options.\n\nFixed – Walk button on keyboard prevents players from moving if Controller Deadzone is at 45 or higher.\n\nFixed – The Hold button icon doesn't appear when a hold action is available.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01), [TikTok](https://www.tiktok.com/@rainbow6game), and [YouTube](https://www.youtube.com/@Rainbow6).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
+    "categories": [
+      "community"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wSBB6xoqdH6slG1Pr3mbA/y11s2-patch-notes-addendum",
     "date": "2026-06-02T16:00:00.000Z"
   },
   {
@@ -419,19 +432,5 @@
     "readTime": 4,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3HSeMj81P0CL3m0N8FS5tK/y10s42-patch-notes",
     "date": "2026-01-20T14:30:00.000Z"
-  },
-  {
-    "id": "3xPObvavUrUoI5cOKuVupf",
-    "title": "“How Rainbow Six Siege Defied An Industry” — A GameSpot Documentary",
-    "abstract": "As Rainbow Six Siege turns 10, GameSpot visited Ubisoft Montreal to look back on the game’s journey.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2UF2935x11P1pIBjlvgbNP/980b1b49e628c5d8c9d6e69d3054bab6/R6S_GameSpot_Documentary_WebArticle_Thumbnail.jpg",
-    "content": "As Rainbow Six Siege reaches its 10-year milestone, GameSpot sat down with the developers at Ubisoft Montreal to look back on the game’s origins, its evolution over the past decade, and the principles that helped it remain relevant in a changing industry.\n\nhttps://www.youtube.com/watch?v=BlfRp-c9lv8",
-    "categories": [
-      "rainbow-six-siege",
-      "community"
-    ],
-    "readTime": 1,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3xPObvavUrUoI5cOKuVupf/how-rainbow-six-siege-defied-an-industry-a-gamespot-documentary",
-    "date": "2026-01-06T13:00:00.000Z"
   }
 ]
