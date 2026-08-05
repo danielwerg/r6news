@@ -1,5 +1,18 @@
 [
   {
+    "id": "42zV5dCdtshmkdcLPf4Ho",
+    "title": "New Twitch Drop for Rengoku event!",
+    "abstract": "Celebrate the launch of Rengoku with an exclusive MP5SD Weapon skin!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/451WC7wkJnyDjqsY1iUAPC/a621b05c4830f4ab4af936df8f1c918f/twitchDrop_rengoku_thumbnail_16x9_small.jpg",
+    "content": "The Floating Temple awaits. Battle for the favor of the gods and unlock an exclusive limited-time weapon skin during the Rengoku event! \n\n__Twitch Drop: EXPECTED-FEAST WEAPON SKIN__ \n\nEarn an exclusive weapon skin forged in the spirit of the battle between the Devoted and the Possessed. \n\n- __When:__ From August 5<sup>th</sup> - August 26<sup>th</sup> \n- __How__: __Watch 3 hours__ of gameplay on official Rainbow Six Siege channels or select partners to unlock your reward. \n\n__How Do Twitch Drops Work?__ \n\nBe sure to follow these steps to make sure you're set up to earn Drops: \n\n- Step 1: Link your Twitch account and Ubisoft account. [Click here to link accounts now](https://drops-register.ubi.com/). \n- Step 2: Watch eligible streams. You'll earn progress toward various items by watching streams for 30 minutes or more. See above for details on how to get each available item. \n\n- Step 3: Claim Your Rewards. When you've earned a Drop, be sure to claim it in your Twitch Inventory. Once complete, your rewards will be waiting for you in-game.",
+    "categories": [
+      "community"
+    ],
+    "readTime": 1,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/42zV5dCdtshmkdcLPf4Ho/new-twitch-drop-for-rengoku-event",
+    "date": "2026-08-05T14:00:00.000Z"
+  },
+  {
     "id": "2EIn06EmkAIG7su2fpITue",
     "title": "Y11S2.3 PATCH NOTES",
     "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y11S2.3!",
@@ -145,6 +158,19 @@
     "date": "2026-06-10T13:00:00.000Z"
   },
   {
+    "id": "5wSBB6xoqdH6slG1Pr3mbA",
+    "title": "Y11S2 PATCH NOTES ADDENDUM",
+    "abstract": "See the changes made over the course of the Y11S2 Season Test Server.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78f6xHK3OdDNtFhTO4kn96/eb46587230405567aaef65618af8edb1/Y11S2_PATCHNOTES_ADDENDUM_960x540.jpg",
+    "content": "Find the updates and fixes made over the course of the Y11S2 Test Server, and check out the full Operation System Override Patch Notes [here](https://rainbow6.com/systemoverride).\n\n## BUG FIXES\n### GAMEPLAY\nFixed – Dropped phones emit a bright flashing light when viewed from different angles.\n\nFixed – Attackers other than Solid Snake are able to pick up OSP Pouches dropped by fallen Operators.\n\nFixed – Defusers placed inside the Fortress' bathtub cannot be picked up and defused when the wall tiles above it are shot.\n\n### AUDIO\nFixed – Viperstrike's voice-over is missing when talking with Nighthaven.\n\nFixed – Thorn's voice-over is missing when talking with Denari.\n\nFixed – Wolfguard's voice-over is missing when talking with Denari.\n\nFixed – Caveira's voice-over is missing when talking with Denari.\n\nFixed – No destruction sound effect plays when destroying any surface.\n\nFixed – Holding both lean buttons when they are set to HOLD results in audio distortion.\n\n### USER EXPERIENCE\nFixed – Players receive anti-spam warnings when AI teammates use the Smart ping system.\n\nFixed – \"No Trespassing - Get 10 Claymore kills in Quick Match/Ranked Multiplayer\" challenge cannot be unlocked.\n\nFixed – Bright light during Montagne's victory dance with MTG MK.II bundle equipped.\n\nFixed – Osa's tablet is too bright during victory dance with Star Child elite bundle equipped.\n\nFixed – Solis' headgear visor is too bright when selecting her from the Operators menu.\n\nFixed – Twitch's Shock Drone laser visual effect is too bright.\n\nFixed – Up and down inputs are unavailable in menu navigation after purchasing an Operator that can be unlocked via Challenges or Clearance level.\n\nFixed – Weapon charms appear cropped in locker preview camera.\n\nFixed – Progress indicator for hostage escort ends before completing a full circle.\n\nFixed – Location ping is always yellow, regardless of the color setting in Accessibility options.\n\nFixed – Walk button on keyboard prevents players from moving if Controller Deadzone is at 45 or higher.\n\nFixed – The Hold button icon doesn't appear when a hold action is available.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01), [TikTok](https://www.tiktok.com/@rainbow6game), and [YouTube](https://www.youtube.com/@Rainbow6).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
+    "categories": [
+      "community"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wSBB6xoqdH6slG1Pr3mbA/y11s2-patch-notes-addendum",
+    "date": "2026-06-02T16:00:00.000Z"
+  },
+  {
     "id": "7p3ki4nsIBrXSSyZUKthBW",
     "title": "New Twitch Drop for Operation System Override!",
     "abstract": "Celebrate the launch of Operation System Override with an exclusive weapon charm inspired by the legendary Calypso Casino map!",
@@ -156,19 +182,6 @@
     ],
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/7p3ki4nsIBrXSSyZUKthBW/new-twitch-drop-for-operation-system-override",
-    "date": "2026-06-02T16:00:00.000Z"
-  },
-  {
-    "id": "5wSBB6xoqdH6slG1Pr3mbA",
-    "title": "Y11S2 PATCH NOTES ADDENDUM",
-    "abstract": "See the changes made over the course of the Y11S2 Season Test Server.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78f6xHK3OdDNtFhTO4kn96/eb46587230405567aaef65618af8edb1/Y11S2_PATCHNOTES_ADDENDUM_960x540.jpg",
-    "content": "Find the updates and fixes made over the course of the Y11S2 Test Server, and check out the full Operation System Override Patch Notes [here](https://rainbow6.com/systemoverride).\n\n## BUG FIXES\n### GAMEPLAY\nFixed – Dropped phones emit a bright flashing light when viewed from different angles.\n\nFixed – Attackers other than Solid Snake are able to pick up OSP Pouches dropped by fallen Operators.\n\nFixed – Defusers placed inside the Fortress' bathtub cannot be picked up and defused when the wall tiles above it are shot.\n\n### AUDIO\nFixed – Viperstrike's voice-over is missing when talking with Nighthaven.\n\nFixed – Thorn's voice-over is missing when talking with Denari.\n\nFixed – Wolfguard's voice-over is missing when talking with Denari.\n\nFixed – Caveira's voice-over is missing when talking with Denari.\n\nFixed – No destruction sound effect plays when destroying any surface.\n\nFixed – Holding both lean buttons when they are set to HOLD results in audio distortion.\n\n### USER EXPERIENCE\nFixed – Players receive anti-spam warnings when AI teammates use the Smart ping system.\n\nFixed – \"No Trespassing - Get 10 Claymore kills in Quick Match/Ranked Multiplayer\" challenge cannot be unlocked.\n\nFixed – Bright light during Montagne's victory dance with MTG MK.II bundle equipped.\n\nFixed – Osa's tablet is too bright during victory dance with Star Child elite bundle equipped.\n\nFixed – Solis' headgear visor is too bright when selecting her from the Operators menu.\n\nFixed – Twitch's Shock Drone laser visual effect is too bright.\n\nFixed – Up and down inputs are unavailable in menu navigation after purchasing an Operator that can be unlocked via Challenges or Clearance level.\n\nFixed – Weapon charms appear cropped in locker preview camera.\n\nFixed – Progress indicator for hostage escort ends before completing a full circle.\n\nFixed – Location ping is always yellow, regardless of the color setting in Accessibility options.\n\nFixed – Walk button on keyboard prevents players from moving if Controller Deadzone is at 45 or higher.\n\nFixed – The Hold button icon doesn't appear when a hold action is available.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01), [TikTok](https://www.tiktok.com/@rainbow6game), and [YouTube](https://www.youtube.com/@Rainbow6).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
-    "categories": [
-      "community"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wSBB6xoqdH6slG1Pr3mbA/y11s2-patch-notes-addendum",
     "date": "2026-06-02T16:00:00.000Z"
   },
   {
@@ -417,20 +430,5 @@
     "readTime": 6,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/7czNpwEkWYwtxFclCtso1F/player-protection-in-year-11",
     "date": "2026-01-30T18:00:00.000Z"
-  },
-  {
-    "id": "3HSeMj81P0CL3m0N8FS5tK",
-    "title": "Y10S4.2 PATCH NOTES",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y10S4.2!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1Ar4TsIOJsn9HT6D8SqUTr/025b1e846def5d41e91923c9e30d936d/PATCH_NOTES_Y10S4.2_960x540.jpg",
-    "content": "See the upcoming changes with the release of Y10S4.2, releasing January 20th.\n\n## BALANCING\n### THORN\nThorn has long struggled to secure her role as a reliable trapper. The current Razor Bloom setup often lacks impact during rounds as its effectiveness depends heavily on pre-planting and concealment. If Attackers choose alternate paths, the traps become irrelevant.\n\nThis update aims to resolve Thorn’s “bark but no bite” issue by making Razor Bloom Shells more flexible and impactful throughout the round. Key changes include:\n\n•\tReduced activation time for faster response.\n•\tIncreased Shells quantity to allow more coverage and reactive placement.\n•\tSlightly reduced lethal range in exchange for quicker detection-to-trigger timing.\n•\tAdded a 15-second survivor penalty that adds bleed and slows movement, similar to Frost's Welcome Mats when self-removed.\n\nThese adjustments transform Razor Blooms into a more dynamic and reactive tool, ensuring Thorn remains a meaningful threat beyond the Preparation Phase.\n\n**RAZOR BLOOM SHELLS**\n- Trigger time after detection: 1.35s (was 2.9s)\n- Damage\n  -  Max damage: 125 (was 180)\n  -  Max damage zone: 0m-1m from center\n- Activation time after deployment: 1s (was 5s)\n- Detection and explosion range: 4m\n- Slowdown and bleed debuff after being hit: 15s\n- Starting quantity: 4 (was 3)\n\n### MOZZIE\nMozzie has faced increasing competition in intel denial and roaming over the years. To boost his flexibility and impact during rounds, we’re bringing back the Super Shorty shotgun—an option he lost back in Year 5.\n\n**LOADOUT**\n- Added Super Shorty shotgun to secondary weapons.\n\n### ECHO\nEcho is already a strong Operator who excels in specific niche situations. The goal is to increase his versatility and improve his chances of success by expanding his Yokai drone resource pool. Rather than making the Yokai themselves stronger—since we believe they’re already well-balanced—we’re giving Echo more opportunities to make an impact and stay relevant throughout the match.\n\n**YOKAI DRONE**\n- Quantity: 3 (was 2)\n\n## REFINEMENT CHANGES\nThese are small adjustments that don’t aim to alter an Operator’s overall power level or flexibility. Instead, they focus on polishing gameplay details, improving consistency, and enhancing quality-of-life without shifting the meta. The goal is to maintain a steady stream of these refinements alongside major updates, helping the game evolve and improve at a constant pace.\n\n### OSA\nA shorter deployment time can provide safer use of the Talon Shield.\n- Decreased shield deployment time: 1.8s (was 2.3s).\n\n### CAPITAO\nA longer burn-time should make Incendiary Bolts flames a bit more reliable.\n- Increased fire burn duration to 13s (was 10s).\n\n### LION\nA longer scan duration should make Lions EE-ONE-D easier to coordinate with allies.\n- Increased scan duration to 3s (was 2s).\n\n### MAESTRO\nA small increase to battery life should make Evil Eyes slightly deadlier when not dealt with.\n- Increased Evil Eye battery life to 8s (was 6).\n  - Also affects the recharge duration since they are the same value.\n\n### JACKAL\nA greater scanning range should make the Eyenox Model III more comfortable when scanning from outside the building, in long hallways, and from different floors.\n- Increased scanning range to 12m (was 8m).\n\n### UMP45\nThe UMP45 was sitting a bit behind compared to other SMGs with a slow rate of fire. With this small boost, every base armor type should be downed with 3 bullets.\n- Increase damage to 42 (was 38).\n- Improved lateral recoil.\n\n## BUG FIXES\n### GAMEPLAY\nFIXED - Operators are detected outdoors when navigating in 2F Courtyard Corridor on the Fortress map.\n\nFIXED - AI Operators get stuck and fail to pick up the defuser when it's dropped at the base of a long staircase on any map.\n\nFIXED - AI Operators can continuously use contextual pings with no cooldown.\n\nFIXED - PMR90A2 marksman rifle has no maximum firing capacity on vertical recoil.\n\nFIXED - EMP can't deactivate the metal detectors in 1F Reception on the Kanal map.\n\n### LEVEL DESIGN\nFIXED - Chests in front of a desk block it from being vaulted in 2F Commander's Office on the Fortress map.\n\n### USER EXPERIENCE\nFIXED - Players can't navigate the Report Player side panel while in game.\n\n### AUDIO\nFIXED - Missing weapon handling SFX when performing a melee.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01) and [TikTok](https://www.tiktok.com/@rainbow6game).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).",
-    "categories": [
-      "patch-notes",
-      "rainbow-six",
-      "rainbow-six-siege"
-    ],
-    "readTime": 4,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3HSeMj81P0CL3m0N8FS5tK/y10s42-patch-notes",
-    "date": "2026-01-20T14:30:00.000Z"
   }
 ]
