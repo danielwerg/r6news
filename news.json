@@ -1,5 +1,18 @@
 [
   {
+    "id": "3FJdYyJpe8imI4xa3TOaHP",
+    "title": "Watch The Y11S3 Reveal, Get a Weapon Charm on Twitch!",
+    "abstract": "Don't miss the upcoming Season Reveal Panel on Saturday, August 15, and earn an exclusive Weapon Charm!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4zBhIyotPKcRn4gaOH4fQa/7d12095a35e9d8779ebf1277a967392d/R6S_Y11S3_Drops_Highlight_16x9_web.jpg",
+    "content": "Get ready for what's on the horizon next season as we unveil the Y11S3 Reveal Panel this weekend! You can get an exclusive **REVEAL CHARM** just by tuning in live on Twitch, so be sure to claim it for free!\n\n## When: \nWe'll have Twitch Drops active on **the official Rainbow Six Twitch channels and select partner streams for one hour following the start of the Season Reveal Panel.**\n\nThis offer will be live on August 15 from 8AM PT / 11AM ET / 5PM CEST, until 9AM PT / 12PM ET / 6PM CEST. See below for details.\n\n## How:\n**Watch 30 minutes** of the Season Reveal Panel. \n\n## How Do Twitch Drops Work?\nBe sure to follow these steps to make sure you're set up to earn Drops:\n\n- Step 1: Link your Twitch account and Ubisoft account. [Click here to link accounts now.](https://drops-register.ubi.com/)\n- Step 2: Watch eligible streams. You'll earn progress toward various items by watching streams for 30 minutes or more. See above for details on how to get each available item.\n- Step 3: Claim Your Rewards. When you've earned a Drop, be sure to claim it in your Twitch Inventory. Once complete, your rewards will be waiting for you in-game.\n\nIf you are a streamer and are looking for info on future creator opportunities for Rainbow Six Siege, be sure to apply to the [Ubisoft Creators Program.](https://creatorsprogram.ubisoft.com/)",
+    "categories": [
+      "rainbow-six-siege"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/3FJdYyJpe8imI4xa3TOaHP/watch-the-y11s3-reveal-get-a-weapon-charm-on-twitch",
+    "date": "2026-08-12T19:00:00.000Z"
+  },
+  {
     "id": "6D3u4jhzIl4tG1MmS9Yw2I",
     "title": "Watch Jynxzi's Tournament on August 11 to Earn Rewards!",
     "abstract": "Get ready for six hours of non-stop Siege action with Jynxzi’s Creator Clash tournament. Tune in for a chance to earn Alpha Packs, Weapon Skin, and more!",
@@ -185,19 +198,6 @@
     "date": "2026-06-10T13:00:00.000Z"
   },
   {
-    "id": "5wSBB6xoqdH6slG1Pr3mbA",
-    "title": "Y11S2 PATCH NOTES ADDENDUM",
-    "abstract": "See the changes made over the course of the Y11S2 Season Test Server.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78f6xHK3OdDNtFhTO4kn96/eb46587230405567aaef65618af8edb1/Y11S2_PATCHNOTES_ADDENDUM_960x540.jpg",
-    "content": "Find the updates and fixes made over the course of the Y11S2 Test Server, and check out the full Operation System Override Patch Notes [here](https://rainbow6.com/systemoverride).\n\n## BUG FIXES\n### GAMEPLAY\nFixed – Dropped phones emit a bright flashing light when viewed from different angles.\n\nFixed – Attackers other than Solid Snake are able to pick up OSP Pouches dropped by fallen Operators.\n\nFixed – Defusers placed inside the Fortress' bathtub cannot be picked up and defused when the wall tiles above it are shot.\n\n### AUDIO\nFixed – Viperstrike's voice-over is missing when talking with Nighthaven.\n\nFixed – Thorn's voice-over is missing when talking with Denari.\n\nFixed – Wolfguard's voice-over is missing when talking with Denari.\n\nFixed – Caveira's voice-over is missing when talking with Denari.\n\nFixed – No destruction sound effect plays when destroying any surface.\n\nFixed – Holding both lean buttons when they are set to HOLD results in audio distortion.\n\n### USER EXPERIENCE\nFixed – Players receive anti-spam warnings when AI teammates use the Smart ping system.\n\nFixed – \"No Trespassing - Get 10 Claymore kills in Quick Match/Ranked Multiplayer\" challenge cannot be unlocked.\n\nFixed – Bright light during Montagne's victory dance with MTG MK.II bundle equipped.\n\nFixed – Osa's tablet is too bright during victory dance with Star Child elite bundle equipped.\n\nFixed – Solis' headgear visor is too bright when selecting her from the Operators menu.\n\nFixed – Twitch's Shock Drone laser visual effect is too bright.\n\nFixed – Up and down inputs are unavailable in menu navigation after purchasing an Operator that can be unlocked via Challenges or Clearance level.\n\nFixed – Weapon charms appear cropped in locker preview camera.\n\nFixed – Progress indicator for hostage escort ends before completing a full circle.\n\nFixed – Location ping is always yellow, regardless of the color setting in Accessibility options.\n\nFixed – Walk button on keyboard prevents players from moving if Controller Deadzone is at 45 or higher.\n\nFixed – The Hold button icon doesn't appear when a hold action is available.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01), [TikTok](https://www.tiktok.com/@rainbow6game), and [YouTube](https://www.youtube.com/@Rainbow6).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
-    "categories": [
-      "community"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wSBB6xoqdH6slG1Pr3mbA/y11s2-patch-notes-addendum",
-    "date": "2026-06-02T16:00:00.000Z"
-  },
-  {
     "id": "7p3ki4nsIBrXSSyZUKthBW",
     "title": "New Twitch Drop for Operation System Override!",
     "abstract": "Celebrate the launch of Operation System Override with an exclusive weapon charm inspired by the legendary Calypso Casino map!",
@@ -209,6 +209,19 @@
     ],
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/7p3ki4nsIBrXSSyZUKthBW/new-twitch-drop-for-operation-system-override",
+    "date": "2026-06-02T16:00:00.000Z"
+  },
+  {
+    "id": "5wSBB6xoqdH6slG1Pr3mbA",
+    "title": "Y11S2 PATCH NOTES ADDENDUM",
+    "abstract": "See the changes made over the course of the Y11S2 Season Test Server.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/78f6xHK3OdDNtFhTO4kn96/eb46587230405567aaef65618af8edb1/Y11S2_PATCHNOTES_ADDENDUM_960x540.jpg",
+    "content": "Find the updates and fixes made over the course of the Y11S2 Test Server, and check out the full Operation System Override Patch Notes [here](https://rainbow6.com/systemoverride).\n\n## BUG FIXES\n### GAMEPLAY\nFixed – Dropped phones emit a bright flashing light when viewed from different angles.\n\nFixed – Attackers other than Solid Snake are able to pick up OSP Pouches dropped by fallen Operators.\n\nFixed – Defusers placed inside the Fortress' bathtub cannot be picked up and defused when the wall tiles above it are shot.\n\n### AUDIO\nFixed – Viperstrike's voice-over is missing when talking with Nighthaven.\n\nFixed – Thorn's voice-over is missing when talking with Denari.\n\nFixed – Wolfguard's voice-over is missing when talking with Denari.\n\nFixed – Caveira's voice-over is missing when talking with Denari.\n\nFixed – No destruction sound effect plays when destroying any surface.\n\nFixed – Holding both lean buttons when they are set to HOLD results in audio distortion.\n\n### USER EXPERIENCE\nFixed – Players receive anti-spam warnings when AI teammates use the Smart ping system.\n\nFixed – \"No Trespassing - Get 10 Claymore kills in Quick Match/Ranked Multiplayer\" challenge cannot be unlocked.\n\nFixed – Bright light during Montagne's victory dance with MTG MK.II bundle equipped.\n\nFixed – Osa's tablet is too bright during victory dance with Star Child elite bundle equipped.\n\nFixed – Solis' headgear visor is too bright when selecting her from the Operators menu.\n\nFixed – Twitch's Shock Drone laser visual effect is too bright.\n\nFixed – Up and down inputs are unavailable in menu navigation after purchasing an Operator that can be unlocked via Challenges or Clearance level.\n\nFixed – Weapon charms appear cropped in locker preview camera.\n\nFixed – Progress indicator for hostage escort ends before completing a full circle.\n\nFixed – Location ping is always yellow, regardless of the color setting in Accessibility options.\n\nFixed – Walk button on keyboard prevents players from moving if Controller Deadzone is at 45 or higher.\n\nFixed – The Hold button icon doesn't appear when a hold action is available.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01), [TikTok](https://www.tiktok.com/@rainbow6game), and [YouTube](https://www.youtube.com/@Rainbow6).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).\n",
+    "categories": [
+      "community"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5wSBB6xoqdH6slG1Pr3mbA/y11s2-patch-notes-addendum",
     "date": "2026-06-02T16:00:00.000Z"
   },
   {
@@ -416,19 +429,5 @@
     "readTime": 6,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5fWCjoCU8toUJiBdMSj0UA/y11s1-designers-notes",
     "date": "2026-02-16T17:00:00.000Z"
-  },
-  {
-    "id": "1vRH2tkPblNah6ZRcdTVi6",
-    "title": "RAINBOW SIX SIEGE: CORE TEAM UPDATE",
-    "abstract": "An update on the Siege Core team.",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/64lMsVoy8PeM29a0Tvt6ws/e87bbd9b7251617d043a171b415f8b48/R6S_Y10S4_CoreTeamUpdate.png",
-    "content": "\nThe Six Invitational is almost here and with it, some big reveals for a thrilling Year 11 ahead. Before then, we have another reveal to share from the Siege team leadership.\n\nKeep reading for an update from Creative Director Alexander Karpazis as he prepares to transition the role and tag in a familiar teammate.\n\n<br>\n\n__ALEXANDER KARPAZIS__\n\n*Hello Operators,*\n\n*Siege is about to embark on Year 11 after celebrating a historic milestone with the 10<sup>th</sup> anniversary. I am excited to share with you what the team has been working on at the 2026 Six Invitationals this February and I also wanted to share with you that this Invitational will be my last as the Creative Director of Siege.*\n\n*I am proud to have been a part of the Siege team for the last eight years and a Siege player for even longer. I cannot put into words the number of ways this game has impacted my life; the incredible team that I have been a part of, the work we have achieved together, the adventures I have gone on, and the people I have met along the way have had a profound effect on me and have enriched my life season after season. It has been an honor spending half my professional career working on Siege. This March, Siege will release what I believe is one of the most special seasons we have ever worked on. This moment will mark a high point that I can proudly transition from, to new challenges within Ubisoft. I will be taking with me all the experiences and learnings I have had on Siege and pouring it into something new.*\n\n*Which leads me to my replacement. It is with great excitement to announce that Joshua Mills will be taking over as the new Creative Director on Siege! Joshua and I have worked together for many years. Not only is he a great friend, but he has proven himself to be a strong leader and a champion of Siege values. We have been working on this transition of responsibilities for over a year, and I am confident he will lead this game to even greater heights. I will let him introduce himself in his new role below.*\n\n*To sign off, I would like to thank the Siege team for trusting me with the responsibilities of Creative Director and allowing me the privilege to represent their hard work season after season. To the Siege community, thank you for giving me a chance and for sharing your vision and love of the game with me. I will see you all at the Six Invitationals.*\n\n *{-}7*\n\n*Alex*\n\n<br>\n\n__JOSHUA MILLS__\n\n*Hey ya'll,*\n\n*First, before saying anything else I'd like to personally thank Alex. Thank him for everything he has brought to Siege over his years of service to the team, and to the community. Thank him for his guidance and undying love of the craft. Thank him for his trust and support as I have the honour to step into this role and pour every ounce of passion, creativity and dedication I can into Siege with our one-of-a-kind, legendary team.*\n\n*Siege has been part of my life for the past decade, but my love for all things Rainbow begins well before that. I have always been drawn to the high stakes heroics of the franchise and with my 4+ years on Siege to-date it's been a dream to have become part of its history.*\n\n*I am beyond humbled to have this opportunity to continue to, just like Alex, serve this team and this community. I can't wait to show you what Year 11 has in store and frankly see what we will build together in the future.*\n\n*Bandit Elite IRL,*\n*Josh*\n",
-    "categories": [
-      "rainbow-six-siege",
-      "dev-blogs"
-    ],
-    "readTime": 4,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/1vRH2tkPblNah6ZRcdTVi6/rainbow-six-siege-core-team-update",
-    "date": "2026-02-03T17:00:00.000Z"
   }
 ]
