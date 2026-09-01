@@ -1,5 +1,19 @@
 [
   {
+    "id": "6HzsdnbOYovXelORy4mB7z",
+    "title": "Y11S3 PATCH NOTES ADDENDUM",
+    "abstract": "See the changes made over the course of the Y11S3 Season Test Server.",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2kMlckhnjCUB8d0WzteK82/a39d20b7a048f73fc48dfd2a73c2aa5b/Patch-Notes-Addendum-960x540.jpg",
+    "content": "You can find here the updates and fixes made over the course of the Y11S3 Season Test Server.\n\n# BUG FIXES\n\n### GAMEPLAY\n\nFixed – AI training bots will try to break Azami's Kiba Barriers instead of navigating around them.\n\nFixed – AI training bots do not spawn in the Yacht map of the Clear House playlist.\n\nFixed – AI training bots rappel slowly.\n\nFixed – Players cannot aim down sights using the iron sights on the Bearing 9 or Super Shorty.\n\nFixed – Several tutorial objectives in the Shooting Range cannot be completed.\n\n### OPERATORS\n\nFixed – The extend and retract animations of Montagne's Le Roc Shield are not smooth.\n\nFixed – Pulse's Cardiac Sensor does not display detected enemies.\n\n### USER EXPERIENCE\n\nFixed – Players cannot change the match settings if they become Squad Leader while in the Essentials tab of Playlists.\n\nFixed – If players pick the same Operators in 3v3 Arcade, the game crashes when a match finishes. \n\nFixed – Operator Guide images do not load when navigating using the keyboard arrows.\n\nFixed – Horizontal grips are unavailable when customizing guns.\n\n### AUDIO \n\nFixed – If players disable voice chat while in the main menu, their voice chat is still active when they start a match. \n\n<br>\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01) and [TikTok](https://www.tiktok.com/@rainbow6game).",
+    "categories": [
+      "community",
+      "rainbow-six-siege"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/6HzsdnbOYovXelORy4mB7z/y11s3-patch-notes-addendum",
+    "date": "2026-09-01T09:30:00.000Z"
+  },
+  {
     "id": "3ShXW9jmSn9vjbzIcAZhUq",
     "title": "New Twitch Drop for Operation Split Fire!",
     "abstract": "We’re bringing an exclusive Weapon Charm directly to your inventory.",
@@ -421,18 +435,5 @@
     "readTime": 1,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/14HgDEoKuvdhgouqwx7dMB/new-twitch-drops-available-during-the-redacted-event",
     "date": "2026-03-24T17:00:00.000Z"
-  },
-  {
-    "id": "1e0rA6EwYGMNvMTSM9hmTA",
-    "title": "Y11S1.1 PATCH NOTES",
-    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y11S1.1!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4uUMJpXHmUdfrUsJbnVphN/d1588c262386bd78f69e8b995459e10a/PATCH_NOTES_Y11S1.1_960x540.jpg",
-    "content": "See the upcoming changes with the release of Y11S1.1.\n\n## BALANCING\n### FLORES\nA shorter delay allows Flores to follow up behind his drone more quickly, improving his pacing during pushes.\n\n**RCE-RATERO CHARGE**\n- Reduced delay to exit the drone after triggering the explosion to 1 second (from 2).\n\n### IANA\nExtending the duration gives Iana additional time to gather intel with her Gemini.\n\n**GEMINI REPLICATOR**\n- Duration: Increased to 18 seconds (from 15).\n\n### JÄGER\nReducing the cooldown helps Jäger respond more consistently to staggered projectile threats.\n\n**ACTIVE DEFENSE**\n- Cooldown: Reduced to 9 seconds (from 10).\n\n### NOKK\nA longer duration gives Nokk more freedom to take calculated risks while her ability is active.\n\n**HEL PRESENCE REDUCTION**\n- Duration: Increased to 13 seconds (from 10)\n\n### ROOK\nIncreased health boosts the overall survivability of Rook's teammates.\n\n**ARMOR PACK**\n- Additional health: Increased to 25 hp (from 20).\n\n### WAMAI\nReducing the activation time makes Wamai more responsive when deploying his gadgets.\n\n**MAG-NET SYSTEM**\n- Activation time: Reduced to 1.5 seconds (from 2).\n\n### M12\nIncrease its damage will make the weapon more deadly.\n\n**BASE STATS**\n- Damage: Increased to 42 hp (from 40).\n\n**OPERATORS AFFECTED**\n- Caveira\n\n### POF-9\nHigher damage increases the weapon's lethality and strengthens the impact of its wielder.\n\n**BASE STATS**\n- Damage: Increased to 37 hp (from 35). \n\n**OPERATORS AFFECTED**\n- Sens\n\n## BUG FIXES\n### GAMEPLAY\nFIXED - Solid Snakes OSP Pouch may highlight two gadgets as selected, making one of them unusable.\n\nFIXED - Operator's prone movement speed is faster than in previous seasons.\n\nFIXED - Wamai's Mag-NET still catches throwable devices even after it is destroyed.\n\nFIXED - Attackers lose control over their drone during the Preparation Phase if another Operator spectates it.\n\nFIXED - Solid Snake's Soliton Radar MK III can detect the 2nd floor of Oregon map from EXT Dorms Roof.\n\nFIXED - Ram can hide inside and see through her BU-GI Auto Breacher by deploying it on a window frame.\n\nFIXED - Shooting Iana's Gemini Replicator in front of smoke causes some of the smoke VFX to disappear.\n\nFIXED - Gridlock's Trax Stingers don't get destroyed by Denari's T.R.I.P. Connector.\n\nFIXED - When playing an online match against AI, the AI Attackers won't rappel.\n\nFIXED - The time it takes holding the button to deploy the defuser is longer than expected.\n\nFIXED - Flickering sky texture in Dual Front.\n\nFIXED - Missing explosion VFX and SFX for Flores's RCE-Ratero Charge when the Master Assassin ability skin is equipped.\n\n### USER EXPERIENCE\nFIXED - Spectating Solid Snake after he's activated Soliton Radar Mk III will display no information on the radar screen.\n\nFIXED - Rebinding the secondary input for Switch Ability Mode causes the selected input to not work.\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01) and [TikTok](https://www.tiktok.com/@rainbow6game).\n\nEncountering a bug? Report your experience at [R6Fix](https://r6fix.ubi.com/).",
-    "categories": [
-      "patch-notes"
-    ],
-    "readTime": 3,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/1e0rA6EwYGMNvMTSM9hmTA/y11s11-patch-notes",
-    "date": "2026-03-24T10:30:00.000Z"
   }
 ]
