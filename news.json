@@ -1,5 +1,18 @@
 [
   {
+    "id": "4siIATxV2PVpuSsBbTPB1t",
+    "title": "Y11S3.3 PATCH NOTES",
+    "abstract": "See the upcoming changes to Rainbow Six Siege with the release of Y11S3.3!",
+    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1b9Bed4fh4seTNEUMoB5CI/1f2b9968e7c3abe24bd445323c4299fb/Y11S3.3_PATCHNOTES_960x640.jpg",
+    "content": "See the upcoming changes to Rainbow Six Siege with the release of Y11S3.3.\n\n## REFINEMENT CHANGES\n\"*These are small adjustments that don’t aim to alter an Operator’s overall power level or flexibility. Instead, they focus on polishing gameplay details, improving consistency, and enhancing quality-of-life without shifting the meta. Our goal is to maintain a steady stream of these refinements alongside major updates, helping the game evolve and constantly improve.*\"\n\n### ACE\n**S.E.L.M.A. AQUA BREACHER**\n- Second charge deployment time: Increased to 1.1 seconds (from 1.0).\n\n### ARUNI\n**SURYA GATE**\n- Overload duration: Reduced to 28 seconds (from 30).\n\n### BRAVA\n**KLUDGE DRONE**\n- Shooting cooldown (when missing): Reduced to 0.9 seconds (from 1).\n\n### DENARI\n**T.R.I.P. CONNECTOR**\n- Damage: Increased to 22 hp (from 20).\n\n### FLORES\n**RCE-RATERO CHARGE**\n- Self-destruction time: Increased to 11 seconds (from 10).\n\n### JACKAL\n**EYENOX MODEL III**\n- Range: Increased to 15 meters (from 12).\n\n### NITRO CELL\n- Damage: Increased to 185 hp (from 180).\n\n### COMMANDO 9\n**BASE STATS**\n- Damage: Increased to 38 hp (from 36).\n\n**OPERATORS AFFECTED**\n- Mozzie\n- Noor\n- Sentry\n\n<br>\n\n## ANTI-TOXICITY IMPROVEMENTS\nPlayer privacy settings are now applied to the match intro, ready screen, and scoreboard to preserve anonymity.\n\n<br>\n\n---\n\n## BUG FIXES \n### GAMEPLAY\n\nFIXED - Some throwable gadgets remain deactivated after the disrupt electronics effect wears off.\n\n### USER EXPERIENCE\nFIXED - Login Rewards timer overlaps the button in the news carousel.\nFIXED - An infinite loading screen sometimes occurs during the cinematic when unlocking an Operator.\nFIXED - Target display shows white marks instead of red in the shooting range.\nFIXED - The RT and LT buttons on the XBOX controller do not work in the My Rank menu of the Career tab.\nFIXED - Daily Challenge does not appear on the Challenge side panel for lower-level players, but still shows as completed in the After Action Report.\nFIXED - When changing the default monitor, the setting is not applied when display mode is set to fullscreen.\nFIXED - Text Chat is still active after selecting Find Next Match.\n\n<br>\n\n---\n\nJoin the discussion on [X](https://twitter.com/Rainbow6Game/), [Instagram](https://www.instagram.com/rainbow6game/), [Reddit](https://www.reddit.com/r/Rainbow6/), [Discord](https://discord.gg/rainbow6), [Facebook](https://www.facebook.com/Rainbow6/), [WhatsApp](https://www.whatsapp.com/channel/0029VbBqYEYHltYEBIGWEE01) and [TikTok](https://www.tiktok.com/@rainbow6game).\n\nEncountering a bug? Report your experience with [Bug Reporter](https://www.ubisoft.com/en-us/game/rainbow-six/siege/bug-reporter).",
+    "categories": [
+      "community"
+    ],
+    "readTime": 2,
+    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/4siIATxV2PVpuSsBbTPB1t/y11s33-patch-notes",
+    "date": "2026-11-03T10:30:00.000Z"
+  },
+  {
     "id": "oCwKLIyu3x8Xi7YtJKQCw",
     "title": "Rainbow Six Siege Community Checkpoint Recap: Balancing, Testing Grounds, Hostage and more.",
     "abstract": "The Siege devs share their insights on some of the biggest updates coming! Get more insight into the Siege devs' approach to features like Gameplay & Operator Balancing, Ranked Map Pool, Arcade Modes, Legend Division, Testing Grounds and player feedback.",
@@ -417,20 +430,5 @@
     "readTime": 5,
     "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/5fzYRZKVVHqqRkkv3m4MyF/ranked-30-update",
     "date": "2026-05-17T22:45:00.000Z"
-  },
-  {
-    "id": "72YGlb53IKAToQHGSZm1FR",
-    "title": "New Twitch Drop and Badge Available During the Rainbow Is Magic Event!",
-    "abstract": "Celebrate the launch of Rainbow Is Magic with an exclusive weapon skin and a Twitch chat badge!",
-    "thumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3lePjch75SAfH8YHnW8XBa/a688d470178fb27930a2e7822ad103d4/R6S_Y11S1_RiM_twitchdropsThumbnail.jpg",
-    "content": "The magic is back, and it's taking over Twitch! Celebrate the return of the most colorful event in Siege history by unlocking exclusive rewards for your loadout and your Twitch profile. From tactical sparkles to legendary unicorns, don't miss your chance to shine!\n\n## Twitch Chat Badge: Lord Tachanka Unicorn\n\nShow your allegiance to the Lord of...Sparkles! For a limited time, you can show the ultimate mark of tactical cuteness in Twitch chat with the __exclusive Tachanka Unicorn badge__.\n\n- __When:__ From May 6 - May 20\n- __How__: __Subscribe__ to your favorite participating Rainbow Six Siege streamer. Your badge will be unlocked immediately, letting the world know you believe in magic (and heavy pink armor).\n\n## Twitch Drop: Exclusive Weapon Skin\n\nGear up with a touch of magic! You can claim a free __'MOSTLY BARK' weapon skin__ for the Bailiff 410 by watching Rainbow Six Siege gameplay on Twitch.\n\n- __When:__ From May 6 - May 13\n- __How:__ __Watch 2 hours__ of gameplay on official Rainbow Six Siege channels or select partners to unlock your exclusive skin and bring the rainbow to the battlefield.\n* * * * *\n\n## How Do Twitch Drops Work?\n\nBe sure to follow these steps to make sure you're set up to earn Drops:\n\n- Step 1: Link your Twitch account and Ubisoft account. [Click here to link accounts now](https://drops-register.ubi.com/).\n- Step 2: Watch eligible streams. You'll earn progress toward various items by watching streams for 30 minutes or more. See above for details on how to get each available item.\n\n- Step 3: Claim Your Rewards. When you've earned a Drop, be sure to claim it in your Twitch Inventory. Once complete, your rewards will be waiting for you in-game.",
-    "categories": [
-      "rainbow-six-siege",
-      "community",
-      "shop"
-    ],
-    "readTime": 2,
-    "url": "https://ubisoft.com/en-gb/game/rainbow-six/siege/news-updates/72YGlb53IKAToQHGSZm1FR/new-twitch-drop-and-badge-available-during-the-rainbow-is-magic-event",
-    "date": "2026-05-05T15:00:00.000Z"
   }
 ]
